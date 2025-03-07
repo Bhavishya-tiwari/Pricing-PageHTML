@@ -1,1 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pricify JS</title>
+
+    <script>
+      function onLoad() {
+        Pricify.setVisitor({
+          firstName: "John",
+          lastName: "Doe",
+          email: "john.doe@example.com",
+          phone: "+1-123-456-7890",
+          company: "Example Inc.",
+        });
+
+        // Set billing address with dummy data
+        Pricify.setBillingAddress({
+          firstName: "John",
+          lastName: "Doe",
+          email: "john.doe@example.com",
+          phone: "+1-123-456-7890",
+          company: "Example Inc.",
+          line1: "123 Main St",
+          line2: "Apt 4B",
+          city: "New York",
+          stateCode: "NY",
+          zip: "10001",
+          country: "US",
+        });
+
+        // Set shipping address with dummy data
+        Pricify.setShippingAddress({
+          firstName: "John",
+          lastName: "Doe",
+          email: "john.doe@example.com",
+          phone: "+1-123-456-7890",
+          company: "Example Inc.",
+          line1: "456 Elm St",
+          line2: "Suite 200",
+          city: "Los Angeles",
+          stateCode: "CA",
+          zip: "90002",
+          country: "US",
+        });
+
+        // Optionally, set subscription attributes with custom fields
+        Pricify.setSubscriptionAttributes({
+          customFields: {
+            cf_CustomField_subs: "My custom Value",
+          },
+        });
+
+        // Initialize the pricing page
+        Pricify.init();
+      }
+    </script>
+    <script
+      src="https://js.chargebee.com/atomicpricing/pricify.js"
+      onload="onLoad()"
+      defer
+    ></script>
+  </head>
+
+  <body style="background-color: black">
+    <div
+      id="pricify-hosted-pricing-page"
+      data-pricify-site="01JN5WKGC6GSN9542J6KS3TS7G"
+      data-pricify-pricingpage="01JN5WKHRJPY5EC0EY7GYPVK01"
+    ></div>
+    <div
+      style="
+        margin: 10px;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      "
+    >
+      <div>
+        <label>Quantity:</label>
+        <input type="text" id="pricify-quantity" style="width: 350px" />
+        <button
+          onclick="Pricify.setQuantity(document.getElementById('pricify-quantity').value)"
+        >
+          Set Quantity
+        </button>
+      </div>
+      <div>
+        <label>Business Entity:</label>
+        <input type="text" id="pricify-business-entity" style="width: 350px" />
+        <button
+          onclick="Pricify.setBusinessEntity(document.getElementById('pricify-business-entity').value)"
+        >
+          Set Business Entity
+        </button>
+      </div>
+    </div>
+  </body>
+</html>
 
