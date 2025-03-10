@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pricify JS</title>
+    <title>Pricing page html</title>
 
     <script>
       function onLoad() {
@@ -56,41 +56,49 @@
         Pricify.init();
       }
     </script>
+    
     <script
       src="https://js.chargebee.com/atomicpricing/pricify.js"
       onload="onLoad()"
       defer
     ></script>
-  <script src="//rum-static.pingdom.net/pa-67cac2405c6a70001200058b.js" async></script>
+    
 
+    <!-- Google Tag Manager -->
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-THKXWQPN');
+    </script>
+    <!-- End Google Tag Manager -->
 
-  <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-PTD28SW2');</script>
-  <!-- End Google Tag Manager -->
-
-
-
+    <!-- Function to send an event to GTM on button click -->
+    <script>
+      function sendButtonClickEvent() {
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
+          event: "buttonClick",
+          // Additional parameters can be added here if needed
+          category: "Button",
+          action: "Click",
+          label: "Simple Button"
+        });
+        console.log("Button click event sent to GTM");
+      }
+    </script>
   </head>
 
   <body style="background-color: black">
-
-    
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTD28SW2"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-
-
-
     <div
       id="pricify-hosted-pricing-page"
       data-pricify-site="01JN5WKGC6GSN9542J6KS3TS7G"
       data-pricify-pricingpage="01JN5WKHRJPY5EC0EY7GYPVK01"
-    >
-    </div>
+    ></div>
+
+    
+    <!-- Added button to trigger GTM event -->
+    <button onclick="sendButtonClickEvent()">Click me to send event</button>
   </body>
 </html>
