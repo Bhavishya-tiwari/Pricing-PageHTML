@@ -1,0 +1,53 @@
+{
+    "id": "01JP4YBG6F369VD1FNM2XX64ZD",
+    "heading": "Pricing Page for all your needs 🎉",
+    "subHeading": "Update your pricing pages __without engineering__ team working on it! 🔥",
+    "paywallConfig": {
+        "hideSubscribedPlan": false,
+        "hideFrequencySwitch": false,
+        "actionButton": {
+            "action": "do_nothing",
+            "url": null,
+            "text": "You're currently on this plan!"
+        }
+    },
+    "theme": {
+        "brand": {
+            "color": "#FF523B",
+            "opacity": 1
+        },
+        "background": {
+            "color": "#F2F2F2",
+            "opacity": 1
+        },
+        "accent": {
+            "color": "#012A38",
+            "opacity": 1
+        },
+        "textContrast": {
+            "color": "#FFFFFF",
+            "opacity": 1
+        },
+        "textBase": {
+            "color": "#012A38",
+            "opacity": 1
+        }
+    },
+    "frequencyOrientation": "col",
+    "font": null,
+    "borderRadius": "6px",
+    "pricingTable": {
+        "name": "My Pricing page (copy) (copy)",
+        "description": "A curated list of items from your billing system",
+        "groupedBy": "item",
+        "frequencies": [
+            
+        ],
+        "currencies": [
+           
+        ],
+        "items": [
+            
+        ]
+    }
+}
