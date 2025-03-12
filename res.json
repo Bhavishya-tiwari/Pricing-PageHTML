@@ -1,0 +1,4394 @@
+{
+    "version": "1741712688350V1740625081",
+    "site": {
+        "domain": "test3019-test",
+        "type": "SANDBOX",
+        "organisation_name": "IITI3019",
+        "locales": [
+            "en"
+        ],
+        "countries": [
+            {
+                "code": "PG",
+                "label": "field.country.pg",
+                "vat_code": "PG"
+            },
+            {
+                "code": "KH",
+                "label": "field.country.kh",
+                "vat_code": "KH"
+            },
+            {
+                "code": "PY",
+                "label": "field.country.py",
+                "vat_code": "PY"
+            },
+            {
+                "code": "KZ",
+                "label": "field.country.kz",
+                "vat_code": "KZ"
+            },
+            {
+                "code": "SB",
+                "label": "field.country.sb",
+                "vat_code": "SB"
+            },
+            {
+                "code": "BS",
+                "label": "field.country.bs",
+                "vat_code": "BS"
+            },
+            {
+                "code": "MS",
+                "label": "field.country.ms",
+                "vat_code": "MS"
+            },
+            {
+                "code": "MH",
+                "label": "field.country.mh",
+                "vat_code": "MH"
+            },
+            {
+                "code": "ML",
+                "label": "field.country.ml",
+                "vat_code": "ML"
+            },
+            {
+                "code": "PA",
+                "label": "field.country.pa",
+                "vat_code": "PA"
+            },
+            {
+                "code": "GP",
+                "label": "field.country.gp",
+                "vat_code": "GP"
+            },
+            {
+                "code": "AR",
+                "label": "field.country.ar",
+                "vat_code": "AR"
+            },
+            {
+                "code": "IM",
+                "label": "field.country.im",
+                "vat_code": "IM"
+            },
+            {
+                "code": "PS",
+                "label": "field.country.ps",
+                "vat_code": "PS"
+            },
+            {
+                "code": "SC",
+                "label": "field.country.sc",
+                "vat_code": "SC"
+            },
+            {
+                "code": "ZM",
+                "label": "field.country.zm",
+                "vat_code": "ZM"
+            },
+            {
+                "code": "BZ",
+                "label": "field.country.bz",
+                "vat_code": "BZ"
+            },
+            {
+                "code": "BH",
+                "label": "field.country.bh",
+                "vat_code": "BH"
+            },
+            {
+                "code": "CG",
+                "label": "field.country.cg",
+                "vat_code": "CG"
+            },
+            {
+                "code": "NA",
+                "label": "field.country.na",
+                "vat_code": "NA"
+            },
+            {
+                "code": "FI",
+                "label": "field.country.fi",
+                "vat_code": "FI"
+            },
+            {
+                "code": "FO",
+                "label": "field.country.fo",
+                "vat_code": "FO"
+            },
+            {
+                "code": "KM",
+                "label": "field.country.km",
+                "vat_code": "KM"
+            },
+            {
+                "code": "AN",
+                "label": "field.country.an",
+                "vat_code": "AN"
+            },
+            {
+                "code": "GE",
+                "label": "field.country.ge",
+                "vat_code": "GE"
+            },
+            {
+                "code": "YE",
+                "label": "field.country.ye",
+                "vat_code": "YE"
+            },
+            {
+                "code": "PR",
+                "label": "field.country.pr",
+                "vat_code": "PR"
+            },
+            {
+                "code": "ER",
+                "label": "field.country.er",
+                "vat_code": "ER"
+            },
+            {
+                "code": "VN",
+                "label": "field.country.vn",
+                "vat_code": "VN"
+            },
+            {
+                "code": "MG",
+                "label": "field.country.mg",
+                "vat_code": "MG"
+            },
+            {
+                "code": "AW",
+                "label": "field.country.aw",
+                "vat_code": "AW"
+            },
+            {
+                "code": "LY",
+                "label": "field.country.ly",
+                "vat_code": "LY"
+            },
+            {
+                "code": "SE",
+                "label": "field.country.se",
+                "vat_code": "SE"
+            },
+            {
+                "code": "MW",
+                "label": "field.country.mw",
+                "vat_code": "MW"
+            },
+            {
+                "code": "CC",
+                "label": "field.country.cc",
+                "vat_code": "CC"
+            },
+            {
+                "code": "AD",
+                "label": "field.country.ad",
+                "vat_code": "AD"
+            },
+            {
+                "code": "LI",
+                "label": "field.country.li",
+                "vat_code": "LI"
+            },
+            {
+                "code": "PL",
+                "label": "field.country.pl",
+                "vat_code": "PL"
+            },
+            {
+                "code": "JO",
+                "label": "field.country.jo",
+                "vat_code": "JO"
+            },
+            {
+                "code": "BG",
+                "label": "field.country.bg",
+                "vat_code": "BG"
+            },
+            {
+                "code": "TN",
+                "label": "field.country.tn",
+                "vat_code": "TN"
+            },
+            {
+                "code": "AE",
+                "label": "field.country.ae",
+                "vat_code": "AE"
+            },
+            {
+                "code": "TV",
+                "label": "field.country.tv",
+                "vat_code": "TV"
+            },
+            {
+                "code": "KE",
+                "label": "field.country.ke",
+                "vat_code": "KE"
+            },
+            {
+                "code": "PF",
+                "label": "field.country.pf",
+                "vat_code": "PF"
+            },
+            {
+                "code": "LB",
+                "label": "field.country.lb",
+                "vat_code": "LB"
+            },
+            {
+                "code": "DJ",
+                "label": "field.country.dj",
+                "vat_code": "DJ"
+            },
+            {
+                "code": "CU",
+                "label": "field.country.cu",
+                "vat_code": "CU"
+            },
+            {
+                "code": "AZ",
+                "label": "field.country.az",
+                "vat_code": "AZ"
+            },
+            {
+                "code": "MF",
+                "label": "field.country.mf",
+                "vat_code": "MF"
+            },
+            {
+                "code": "CZ",
+                "label": "field.country.cz",
+                "vat_code": "CZ"
+            },
+            {
+                "code": "LC",
+                "label": "field.country.lc",
+                "vat_code": "LC"
+            },
+            {
+                "code": "MR",
+                "label": "field.country.mr",
+                "vat_code": "MR"
+            },
+            {
+                "code": "GG",
+                "label": "field.country.gg",
+                "vat_code": "GG"
+            },
+            {
+                "code": "TL",
+                "label": "field.country.tl",
+                "vat_code": "TL"
+            },
+            {
+                "code": "YT",
+                "label": "field.country.yt",
+                "vat_code": "YT"
+            },
+            {
+                "code": "SM",
+                "label": "field.country.sm",
+                "vat_code": "SM"
+            },
+            {
+                "code": "IL",
+                "label": "field.country.il",
+                "vat_code": "IL"
+            },
+            {
+                "code": "AU",
+                "label": "field.country.au",
+                "vat_code": "AU"
+            },
+            {
+                "code": "TJ",
+                "label": "field.country.tj",
+                "vat_code": "TJ"
+            },
+            {
+                "code": "MM",
+                "label": "field.country.mm",
+                "vat_code": "MM"
+            },
+            {
+                "code": "CM",
+                "label": "field.country.cm",
+                "vat_code": "CM"
+            },
+            {
+                "code": "GI",
+                "label": "field.country.gi",
+                "vat_code": "GI"
+            },
+            {
+                "code": "CY",
+                "label": "field.country.cy",
+                "vat_code": "CY"
+            },
+            {
+                "code": "MP",
+                "label": "field.country.mp",
+                "vat_code": "MP"
+            },
+            {
+                "code": "MY",
+                "label": "field.country.my",
+                "vat_code": "MY"
+            },
+            {
+                "code": "OM",
+                "label": "field.country.om",
+                "vat_code": "OM"
+            },
+            {
+                "code": "IS",
+                "label": "field.country.is",
+                "vat_code": "IS"
+            },
+            {
+                "code": "BA",
+                "label": "field.country.ba",
+                "vat_code": "BA"
+            },
+            {
+                "code": "AM",
+                "label": "field.country.am",
+                "vat_code": "AM"
+            },
+            {
+                "code": "GA",
+                "label": "field.country.ga",
+                "vat_code": "GA"
+            },
+            {
+                "code": "LU",
+                "label": "field.country.lu",
+                "vat_code": "LU"
+            },
+            {
+                "code": "BR",
+                "label": "field.country.br",
+                "vat_code": "BR"
+            },
+            {
+                "code": "DZ",
+                "label": "field.country.dz",
+                "vat_code": "DZ"
+            },
+            {
+                "code": "SI",
+                "label": "field.country.si",
+                "vat_code": "SI"
+            },
+            {
+                "code": "JE",
+                "label": "field.country.je",
+                "vat_code": "JE"
+            },
+            {
+                "code": "EC",
+                "label": "field.country.ec",
+                "vat_code": "EC"
+            },
+            {
+                "code": "CO",
+                "label": "field.country.co",
+                "vat_code": "CO"
+            },
+            {
+                "code": "MD",
+                "label": "field.country.md",
+                "vat_code": "MD"
+            },
+            {
+                "code": "VU",
+                "label": "field.country.vu",
+                "vat_code": "VU"
+            },
+            {
+                "code": "UM",
+                "label": "field.country.um",
+                "vat_code": "UM"
+            },
+            {
+                "code": "IT",
+                "label": "field.country.it",
+                "vat_code": "IT"
+            },
+            {
+                "code": "HN",
+                "label": "field.country.hn",
+                "vat_code": "HN"
+            },
+            {
+                "code": "AQ",
+                "label": "field.country.aq",
+                "vat_code": "AQ"
+            },
+            {
+                "code": "NR",
+                "label": "field.country.nr",
+                "vat_code": "NR"
+            },
+            {
+                "code": "GW",
+                "label": "field.country.gw",
+                "vat_code": "GW"
+            },
+            {
+                "code": "HT",
+                "label": "field.country.ht",
+                "vat_code": "HT"
+            },
+            {
+                "code": "RU",
+                "label": "field.country.ru",
+                "vat_code": "RU"
+            },
+            {
+                "code": "BI",
+                "label": "field.country.bi",
+                "vat_code": "BI"
+            },
+            {
+                "code": "AF",
+                "label": "field.country.af",
+                "vat_code": "AF"
+            },
+            {
+                "code": "SG",
+                "label": "field.country.sg",
+                "vat_code": "SG"
+            },
+            {
+                "code": "GF",
+                "label": "field.country.gf",
+                "vat_code": "GF"
+            },
+            {
+                "code": "CX",
+                "label": "field.country.cx",
+                "vat_code": "CX"
+            },
+            {
+                "code": "AS",
+                "label": "field.country.as",
+                "vat_code": "AS"
+            },
+            {
+                "code": "VA",
+                "label": "field.country.va",
+                "vat_code": "VA"
+            },
+            {
+                "code": "NL",
+                "label": "field.country.nl",
+                "vat_code": "NL"
+            },
+            {
+                "code": "KP",
+                "label": "field.country.kp",
+                "vat_code": "KP"
+            },
+            {
+                "code": "CN",
+                "label": "field.country.cn",
+                "vat_code": "CN"
+            },
+            {
+                "code": "MQ",
+                "label": "field.country.mq",
+                "vat_code": "MQ"
+            },
+            {
+                "code": "KG",
+                "label": "field.country.kg",
+                "vat_code": "KG"
+            },
+            {
+                "code": "WF",
+                "label": "field.country.wf",
+                "vat_code": "WF"
+            },
+            {
+                "code": "PM",
+                "label": "field.country.pm",
+                "vat_code": "PM"
+            },
+            {
+                "code": "RE",
+                "label": "field.country.re",
+                "vat_code": "RE"
+            },
+            {
+                "code": "BT",
+                "label": "field.country.bt",
+                "vat_code": "BT"
+            },
+            {
+                "code": "RO",
+                "label": "field.country.ro",
+                "vat_code": "RO"
+            },
+            {
+                "code": "TG",
+                "label": "field.country.tg",
+                "vat_code": "TG"
+            },
+            {
+                "code": "FK",
+                "label": "field.country.fk",
+                "vat_code": "FK"
+            },
+            {
+                "code": "PH",
+                "label": "field.country.ph",
+                "vat_code": "PH"
+            },
+            {
+                "code": "UZ",
+                "label": "field.country.uz",
+                "vat_code": "UZ"
+            },
+            {
+                "code": "PN",
+                "label": "field.country.pn",
+                "vat_code": "PN"
+            },
+            {
+                "code": "VG",
+                "label": "field.country.vg",
+                "vat_code": "VG"
+            },
+            {
+                "code": "ZW",
+                "label": "field.country.zw",
+                "vat_code": "ZW"
+            },
+            {
+                "code": "IO",
+                "label": "field.country.io",
+                "vat_code": "IO"
+            },
+            {
+                "code": "CI",
+                "label": "field.country.ci",
+                "vat_code": "CI"
+            },
+            {
+                "code": "ME",
+                "label": "field.country.me",
+                "vat_code": "ME"
+            },
+            {
+                "code": "ID",
+                "label": "field.country.id",
+                "vat_code": "ID"
+            },
+            {
+                "code": "DM",
+                "label": "field.country.dm",
+                "vat_code": "DM"
+            },
+            {
+                "code": "BJ",
+                "label": "field.country.bj",
+                "vat_code": "BJ"
+            },
+            {
+                "code": "EA",
+                "label": "field.country.ea",
+                "vat_code": "EA"
+            },
+            {
+                "code": "AO",
+                "label": "field.country.ao",
+                "vat_code": "AO"
+            },
+            {
+                "code": "SD",
+                "label": "field.country.sd",
+                "vat_code": "SD"
+            },
+            {
+                "code": "PT",
+                "label": "field.country.pt",
+                "vat_code": "PT"
+            },
+            {
+                "code": "BN",
+                "label": "field.country.bn",
+                "vat_code": "BN"
+            },
+            {
+                "code": "NC",
+                "label": "field.country.nc",
+                "vat_code": "NC"
+            },
+            {
+                "code": "GD",
+                "label": "field.country.gd",
+                "vat_code": "GD"
+            },
+            {
+                "code": "GR",
+                "label": "field.country.gr",
+                "vat_code": "GR"
+            },
+            {
+                "code": "KY",
+                "label": "field.country.ky",
+                "vat_code": "KY"
+            },
+            {
+                "code": "SX",
+                "label": "field.country.sx",
+                "vat_code": "SX"
+            },
+            {
+                "code": "MN",
+                "label": "field.country.mn",
+                "vat_code": "MN"
+            },
+            {
+                "code": "LV",
+                "label": "field.country.lv",
+                "vat_code": "LV"
+            },
+            {
+                "code": "MA",
+                "label": "field.country.ma",
+                "vat_code": "MA"
+            },
+            {
+                "code": "IR",
+                "label": "field.country.ir",
+                "vat_code": "IR"
+            },
+            {
+                "code": "GY",
+                "label": "field.country.gy",
+                "vat_code": "GY"
+            },
+            {
+                "code": "GT",
+                "label": "field.country.gt",
+                "vat_code": "GT"
+            },
+            {
+                "code": "IQ",
+                "label": "field.country.iq",
+                "vat_code": "IQ"
+            },
+            {
+                "code": "CL",
+                "label": "field.country.cl",
+                "vat_code": "CL"
+            },
+            {
+                "code": "NP",
+                "label": "field.country.np",
+                "vat_code": "NP"
+            },
+            {
+                "code": "UA",
+                "label": "field.country.ua",
+                "vat_code": "UA"
+            },
+            {
+                "code": "TZ",
+                "label": "field.country.tz",
+                "vat_code": "TZ"
+            },
+            {
+                "code": "GH",
+                "label": "field.country.gh",
+                "vat_code": "GH"
+            },
+            {
+                "code": "CW",
+                "label": "field.country.cw",
+                "vat_code": "CW"
+            },
+            {
+                "code": "VC",
+                "label": "field.country.vc",
+                "vat_code": "VC"
+            },
+            {
+                "code": "AI",
+                "label": "field.country.ai",
+                "vat_code": "AI"
+            },
+            {
+                "code": "IN",
+                "states": [
+                    {
+                        "code": "AN",
+                        "label": "field.country.in.an"
+                    },
+                    {
+                        "code": "AP",
+                        "label": "field.country.in.ap"
+                    },
+                    {
+                        "code": "AR",
+                        "label": "field.country.in.ar"
+                    },
+                    {
+                        "code": "AS",
+                        "label": "field.country.in.as"
+                    },
+                    {
+                        "code": "BR",
+                        "label": "field.country.in.br"
+                    },
+                    {
+                        "code": "CH",
+                        "label": "field.country.in.ch"
+                    },
+                    {
+                        "code": "CT",
+                        "label": "field.country.in.ct"
+                    },
+                    {
+                        "code": "DH",
+                        "label": "field.country.in.dh"
+                    },
+                    {
+                        "code": "DL",
+                        "label": "field.country.in.dl"
+                    },
+                    {
+                        "code": "GA",
+                        "label": "field.country.in.ga"
+                    },
+                    {
+                        "code": "GJ",
+                        "label": "field.country.in.gj"
+                    },
+                    {
+                        "code": "HR",
+                        "label": "field.country.in.hr"
+                    },
+                    {
+                        "code": "HP",
+                        "label": "field.country.in.hp"
+                    },
+                    {
+                        "code": "JK",
+                        "label": "field.country.in.jk"
+                    },
+                    {
+                        "code": "JH",
+                        "label": "field.country.in.jh"
+                    },
+                    {
+                        "code": "KA",
+                        "label": "field.country.in.ka"
+                    },
+                    {
+                        "code": "KL",
+                        "label": "field.country.in.kl"
+                    },
+                    {
+                        "code": "LA",
+                        "label": "field.country.in.la"
+                    },
+                    {
+                        "code": "LD",
+                        "label": "field.country.in.ld"
+                    },
+                    {
+                        "code": "MP",
+                        "label": "field.country.in.mp"
+                    },
+                    {
+                        "code": "MH",
+                        "label": "field.country.in.mh"
+                    },
+                    {
+                        "code": "MN",
+                        "label": "field.country.in.mn"
+                    },
+                    {
+                        "code": "ML",
+                        "label": "field.country.in.ml"
+                    },
+                    {
+                        "code": "MZ",
+                        "label": "field.country.in.mz"
+                    },
+                    {
+                        "code": "NL",
+                        "label": "field.country.in.nl"
+                    },
+                    {
+                        "code": "OR",
+                        "label": "field.country.in.or"
+                    },
+                    {
+                        "code": "PY",
+                        "label": "field.country.in.py"
+                    },
+                    {
+                        "code": "PB",
+                        "label": "field.country.in.pb"
+                    },
+                    {
+                        "code": "RJ",
+                        "label": "field.country.in.rj"
+                    },
+                    {
+                        "code": "SK",
+                        "label": "field.country.in.sk"
+                    },
+                    {
+                        "code": "TN",
+                        "label": "field.country.in.tn"
+                    },
+                    {
+                        "code": "TG",
+                        "label": "field.country.in.tg"
+                    },
+                    {
+                        "code": "TR",
+                        "label": "field.country.in.tr"
+                    },
+                    {
+                        "code": "UP",
+                        "label": "field.country.in.up"
+                    },
+                    {
+                        "code": "UT",
+                        "label": "field.country.in.ut"
+                    },
+                    {
+                        "code": "WB",
+                        "label": "field.country.in.wb"
+                    }
+                ],
+                "label": "field.country.in",
+                "vat_code": "IN"
+            },
+            {
+                "code": "CA",
+                "states": [
+                    {
+                        "code": "AB",
+                        "label": "field.country.ca.ab"
+                    },
+                    {
+                        "code": "BC",
+                        "label": "field.country.ca.bc"
+                    },
+                    {
+                        "code": "MB",
+                        "label": "field.country.ca.mb"
+                    },
+                    {
+                        "code": "NB",
+                        "label": "field.country.ca.nb"
+                    },
+                    {
+                        "code": "NL",
+                        "label": "field.country.ca.nl"
+                    },
+                    {
+                        "code": "NT",
+                        "label": "field.country.ca.nt"
+                    },
+                    {
+                        "code": "NS",
+                        "label": "field.country.ca.ns"
+                    },
+                    {
+                        "code": "NU",
+                        "label": "field.country.ca.nu"
+                    },
+                    {
+                        "code": "ON",
+                        "label": "field.country.ca.on"
+                    },
+                    {
+                        "code": "PE",
+                        "label": "field.country.ca.pe"
+                    },
+                    {
+                        "code": "QC",
+                        "label": "field.country.ca.qc"
+                    },
+                    {
+                        "code": "SK",
+                        "label": "field.country.ca.sk"
+                    },
+                    {
+                        "code": "YT",
+                        "label": "field.country.ca.yt"
+                    }
+                ],
+                "label": "field.country.ca",
+                "vat_code": "CA"
+            },
+            {
+                "code": "MV",
+                "label": "field.country.mv",
+                "vat_code": "MV"
+            },
+            {
+                "code": "TR",
+                "label": "field.country.tr",
+                "vat_code": "TR"
+            },
+            {
+                "code": "BE",
+                "label": "field.country.be",
+                "vat_code": "BE"
+            },
+            {
+                "code": "KR",
+                "label": "field.country.kr",
+                "vat_code": "KR"
+            },
+            {
+                "code": "ZA",
+                "label": "field.country.za",
+                "vat_code": "ZA"
+            },
+            {
+                "code": "BM",
+                "label": "field.country.bm",
+                "vat_code": "BM"
+            },
+            {
+                "code": "CF",
+                "label": "field.country.cf",
+                "vat_code": "CF"
+            },
+            {
+                "code": "AX",
+                "label": "field.country.ax",
+                "vat_code": "AX"
+            },
+            {
+                "code": "JM",
+                "label": "field.country.jm",
+                "vat_code": "JM"
+            },
+            {
+                "code": "TM",
+                "label": "field.country.tm",
+                "vat_code": "TM"
+            },
+            {
+                "code": "PE",
+                "label": "field.country.pe",
+                "vat_code": "PE"
+            },
+            {
+                "code": "DE",
+                "label": "field.country.de",
+                "vat_code": "DE"
+            },
+            {
+                "code": "TK",
+                "label": "field.country.tk",
+                "vat_code": "TK"
+            },
+            {
+                "code": "FJ",
+                "label": "field.country.fj",
+                "vat_code": "FJ"
+            },
+            {
+                "code": "HK",
+                "label": "field.country.hk",
+                "vat_code": "HK"
+            },
+            {
+                "code": "US",
+                "states": [
+                    {
+                        "code": "AL",
+                        "label": "field.country.us.al"
+                    },
+                    {
+                        "code": "AK",
+                        "label": "field.country.us.ak"
+                    },
+                    {
+                        "code": "AS",
+                        "label": "field.country.us.as"
+                    },
+                    {
+                        "code": "AZ",
+                        "label": "field.country.us.az"
+                    },
+                    {
+                        "code": "AR",
+                        "label": "field.country.us.ar"
+                    },
+                    {
+                        "code": "AA",
+                        "label": "field.country.us.aa"
+                    },
+                    {
+                        "code": "AE",
+                        "label": "field.country.us.ae"
+                    },
+                    {
+                        "code": "AP",
+                        "label": "field.country.us.ap"
+                    },
+                    {
+                        "code": "CA",
+                        "label": "field.country.us.ca"
+                    },
+                    {
+                        "code": "CO",
+                        "label": "field.country.us.co"
+                    },
+                    {
+                        "code": "CT",
+                        "label": "field.country.us.ct"
+                    },
+                    {
+                        "code": "DE",
+                        "label": "field.country.us.de"
+                    },
+                    {
+                        "code": "DC",
+                        "label": "field.country.us.dc"
+                    },
+                    {
+                        "code": "FL",
+                        "label": "field.country.us.fl"
+                    },
+                    {
+                        "code": "GA",
+                        "label": "field.country.us.ga"
+                    },
+                    {
+                        "code": "GU",
+                        "label": "field.country.us.gu"
+                    },
+                    {
+                        "code": "HI",
+                        "label": "field.country.us.hi"
+                    },
+                    {
+                        "code": "ID",
+                        "label": "field.country.us.id"
+                    },
+                    {
+                        "code": "IL",
+                        "label": "field.country.us.il"
+                    },
+                    {
+                        "code": "IN",
+                        "label": "field.country.us.in"
+                    },
+                    {
+                        "code": "IA",
+                        "label": "field.country.us.ia"
+                    },
+                    {
+                        "code": "KS",
+                        "label": "field.country.us.ks"
+                    },
+                    {
+                        "code": "KY",
+                        "label": "field.country.us.ky"
+                    },
+                    {
+                        "code": "LA",
+                        "label": "field.country.us.la"
+                    },
+                    {
+                        "code": "ME",
+                        "label": "field.country.us.me"
+                    },
+                    {
+                        "code": "MH",
+                        "label": "field.country.us.mh"
+                    },
+                    {
+                        "code": "MD",
+                        "label": "field.country.us.md"
+                    },
+                    {
+                        "code": "MA",
+                        "label": "field.country.us.ma"
+                    },
+                    {
+                        "code": "MI",
+                        "label": "field.country.us.mi"
+                    },
+                    {
+                        "code": "FM",
+                        "label": "field.country.us.fm"
+                    },
+                    {
+                        "code": "MN",
+                        "label": "field.country.us.mn"
+                    },
+                    {
+                        "code": "MS",
+                        "label": "field.country.us.ms"
+                    },
+                    {
+                        "code": "MO",
+                        "label": "field.country.us.mo"
+                    },
+                    {
+                        "code": "MT",
+                        "label": "field.country.us.mt"
+                    },
+                    {
+                        "code": "NE",
+                        "label": "field.country.us.ne"
+                    },
+                    {
+                        "code": "NV",
+                        "label": "field.country.us.nv"
+                    },
+                    {
+                        "code": "NH",
+                        "label": "field.country.us.nh"
+                    },
+                    {
+                        "code": "NJ",
+                        "label": "field.country.us.nj"
+                    },
+                    {
+                        "code": "NM",
+                        "label": "field.country.us.nm"
+                    },
+                    {
+                        "code": "NY",
+                        "label": "field.country.us.ny"
+                    },
+                    {
+                        "code": "NC",
+                        "label": "field.country.us.nc"
+                    },
+                    {
+                        "code": "ND",
+                        "label": "field.country.us.nd"
+                    },
+                    {
+                        "code": "MP",
+                        "label": "field.country.us.mp"
+                    },
+                    {
+                        "code": "OH",
+                        "label": "field.country.us.oh"
+                    },
+                    {
+                        "code": "OK",
+                        "label": "field.country.us.ok"
+                    },
+                    {
+                        "code": "OR",
+                        "label": "field.country.us.or"
+                    },
+                    {
+                        "code": "PW",
+                        "label": "field.country.us.pw"
+                    },
+                    {
+                        "code": "PA",
+                        "label": "field.country.us.pa"
+                    },
+                    {
+                        "code": "PR",
+                        "label": "field.country.us.pr"
+                    },
+                    {
+                        "code": "RI",
+                        "label": "field.country.us.ri"
+                    },
+                    {
+                        "code": "SC",
+                        "label": "field.country.us.sc"
+                    },
+                    {
+                        "code": "SD",
+                        "label": "field.country.us.sd"
+                    },
+                    {
+                        "code": "TN",
+                        "label": "field.country.us.tn"
+                    },
+                    {
+                        "code": "TX",
+                        "label": "field.country.us.tx"
+                    },
+                    {
+                        "code": "UT",
+                        "label": "field.country.us.ut"
+                    },
+                    {
+                        "code": "VT",
+                        "label": "field.country.us.vt"
+                    },
+                    {
+                        "code": "VI",
+                        "label": "field.country.us.vi"
+                    },
+                    {
+                        "code": "VA",
+                        "label": "field.country.us.va"
+                    },
+                    {
+                        "code": "WA",
+                        "label": "field.country.us.wa"
+                    },
+                    {
+                        "code": "WV",
+                        "label": "field.country.us.wv"
+                    },
+                    {
+                        "code": "WI",
+                        "label": "field.country.us.wi"
+                    },
+                    {
+                        "code": "WY",
+                        "label": "field.country.us.wy"
+                    }
+                ],
+                "label": "field.country.us",
+                "vat_code": "US"
+            },
+            {
+                "code": "GN",
+                "label": "field.country.gn",
+                "vat_code": "GN"
+            },
+            {
+                "code": "SO",
+                "label": "field.country.so",
+                "vat_code": "SO"
+            },
+            {
+                "code": "TD",
+                "label": "field.country.td",
+                "vat_code": "TD"
+            },
+            {
+                "code": "TH",
+                "label": "field.country.th",
+                "vat_code": "TH"
+            },
+            {
+                "code": "KI",
+                "label": "field.country.ki",
+                "vat_code": "KI"
+            },
+            {
+                "code": "GQ",
+                "label": "field.country.gq",
+                "vat_code": "GQ"
+            },
+            {
+                "code": "CR",
+                "label": "field.country.cr",
+                "vat_code": "CR"
+            },
+            {
+                "code": "NG",
+                "label": "field.country.ng",
+                "vat_code": "NG"
+            },
+            {
+                "code": "KW",
+                "label": "field.country.kw",
+                "vat_code": "KW"
+            },
+            {
+                "code": "HR",
+                "label": "field.country.hr",
+                "vat_code": "HR"
+            },
+            {
+                "code": "ST",
+                "label": "field.country.st",
+                "vat_code": "ST"
+            },
+            {
+                "code": "SY",
+                "label": "field.country.sy",
+                "vat_code": "SY"
+            },
+            {
+                "code": "UY",
+                "label": "field.country.uy",
+                "vat_code": "UY"
+            },
+            {
+                "code": "LK",
+                "label": "field.country.lk",
+                "vat_code": "LK"
+            },
+            {
+                "code": "CK",
+                "label": "field.country.ck",
+                "vat_code": "CK"
+            },
+            {
+                "code": "GB",
+                "label": "field.country.gb",
+                "vat_code": "GB"
+            },
+            {
+                "code": "CH",
+                "label": "field.country.ch",
+                "vat_code": "CH"
+            },
+            {
+                "code": "WS",
+                "label": "field.country.ws",
+                "vat_code": "WS"
+            },
+            {
+                "code": "ES",
+                "label": "field.country.es",
+                "vat_code": "ES"
+            },
+            {
+                "code": "VE",
+                "label": "field.country.ve",
+                "vat_code": "VE"
+            },
+            {
+                "code": "LR",
+                "label": "field.country.lr",
+                "vat_code": "LR"
+            },
+            {
+                "code": "BF",
+                "label": "field.country.bf",
+                "vat_code": "BF"
+            },
+            {
+                "code": "CD",
+                "label": "field.country.cd",
+                "vat_code": "CD"
+            },
+            {
+                "code": "SZ",
+                "label": "field.country.sz",
+                "vat_code": "SZ"
+            },
+            {
+                "code": "BL",
+                "label": "field.country.bl",
+                "vat_code": "BL"
+            },
+            {
+                "code": "PW",
+                "label": "field.country.pw",
+                "vat_code": "PW"
+            },
+            {
+                "code": "TC",
+                "label": "field.country.tc",
+                "vat_code": "TC"
+            },
+            {
+                "code": "EE",
+                "label": "field.country.ee",
+                "vat_code": "EE"
+            },
+            {
+                "code": "BQ",
+                "label": "field.country.bq",
+                "vat_code": "BQ"
+            },
+            {
+                "code": "NU",
+                "label": "field.country.nu",
+                "vat_code": "NU"
+            },
+            {
+                "code": "SJ",
+                "label": "field.country.sj",
+                "vat_code": "SJ"
+            },
+            {
+                "code": "IC",
+                "label": "field.country.ic",
+                "vat_code": "IC"
+            },
+            {
+                "code": "AT",
+                "label": "field.country.at",
+                "vat_code": "AT"
+            },
+            {
+                "code": "MZ",
+                "label": "field.country.mz",
+                "vat_code": "MZ"
+            },
+            {
+                "code": "SV",
+                "label": "field.country.sv",
+                "vat_code": "SV"
+            },
+            {
+                "code": "MC",
+                "label": "field.country.mc",
+                "vat_code": "MC"
+            },
+            {
+                "code": "GU",
+                "label": "field.country.gu",
+                "vat_code": "GU"
+            },
+            {
+                "code": "LS",
+                "label": "field.country.ls",
+                "vat_code": "LS"
+            },
+            {
+                "code": "TO",
+                "label": "field.country.to",
+                "vat_code": "TO"
+            },
+            {
+                "code": "EH",
+                "label": "field.country.eh",
+                "vat_code": "EH"
+            },
+            {
+                "code": "HM",
+                "label": "field.country.hm",
+                "vat_code": "HM"
+            },
+            {
+                "code": "SS",
+                "label": "field.country.ss",
+                "vat_code": "SS"
+            },
+            {
+                "code": "HU",
+                "label": "field.country.hu",
+                "vat_code": "HU"
+            },
+            {
+                "code": "JP",
+                "label": "field.country.jp",
+                "vat_code": "JP"
+            },
+            {
+                "code": "XI",
+                "label": "field.country.xi",
+                "vat_code": "XI"
+            },
+            {
+                "code": "BY",
+                "label": "field.country.by",
+                "vat_code": "BY"
+            },
+            {
+                "code": "MU",
+                "label": "field.country.mu",
+                "vat_code": "MU"
+            },
+            {
+                "code": "BV",
+                "label": "field.country.bv",
+                "vat_code": "BV"
+            },
+            {
+                "code": "TT",
+                "label": "field.country.tt",
+                "vat_code": "TT"
+            },
+            {
+                "code": "NF",
+                "label": "field.country.nf",
+                "vat_code": "NF"
+            },
+            {
+                "code": "AL",
+                "label": "field.country.al",
+                "vat_code": "AL"
+            },
+            {
+                "code": "NZ",
+                "label": "field.country.nz",
+                "vat_code": "NZ"
+            },
+            {
+                "code": "SN",
+                "label": "field.country.sn",
+                "vat_code": "SN"
+            },
+            {
+                "code": "MK",
+                "label": "field.country.mk",
+                "vat_code": "MK"
+            },
+            {
+                "code": "ET",
+                "label": "field.country.et",
+                "vat_code": "ET"
+            },
+            {
+                "code": "EG",
+                "label": "field.country.eg",
+                "vat_code": "EG"
+            },
+            {
+                "code": "SL",
+                "label": "field.country.sl",
+                "vat_code": "SL"
+            },
+            {
+                "code": "BO",
+                "label": "field.country.bo",
+                "vat_code": "BO"
+            },
+            {
+                "code": "MT",
+                "label": "field.country.mt",
+                "vat_code": "MT"
+            },
+            {
+                "code": "SA",
+                "label": "field.country.sa",
+                "vat_code": "SA"
+            },
+            {
+                "code": "CV",
+                "label": "field.country.cv",
+                "vat_code": "CV"
+            },
+            {
+                "code": "GS",
+                "label": "field.country.gs",
+                "vat_code": "GS"
+            },
+            {
+                "code": "PK",
+                "label": "field.country.pk",
+                "vat_code": "PK"
+            },
+            {
+                "code": "XK",
+                "label": "field.country.xk",
+                "vat_code": "XK"
+            },
+            {
+                "code": "GM",
+                "label": "field.country.gm",
+                "vat_code": "GM"
+            },
+            {
+                "code": "QA",
+                "label": "field.country.qa",
+                "vat_code": "QA"
+            },
+            {
+                "code": "IE",
+                "label": "field.country.ie",
+                "vat_code": "IE"
+            },
+            {
+                "code": "VI",
+                "label": "field.country.vi",
+                "vat_code": "VI"
+            },
+            {
+                "code": "SK",
+                "label": "field.country.sk",
+                "vat_code": "SK"
+            },
+            {
+                "code": "TW",
+                "label": "field.country.tw",
+                "vat_code": "TW"
+            },
+            {
+                "code": "RS",
+                "label": "field.country.rs",
+                "vat_code": "RS"
+            },
+            {
+                "code": "LT",
+                "label": "field.country.lt",
+                "vat_code": "LT"
+            },
+            {
+                "code": "FR",
+                "label": "field.country.fr",
+                "vat_code": "FR"
+            },
+            {
+                "code": "LA",
+                "label": "field.country.la",
+                "vat_code": "LA"
+            },
+            {
+                "code": "NE",
+                "label": "field.country.ne",
+                "vat_code": "NE"
+            },
+            {
+                "code": "RW",
+                "label": "field.country.rw",
+                "vat_code": "RW"
+            },
+            {
+                "code": "KN",
+                "label": "field.country.kn",
+                "vat_code": "KN"
+            },
+            {
+                "code": "TF",
+                "label": "field.country.tf",
+                "vat_code": "TF"
+            },
+            {
+                "code": "BD",
+                "label": "field.country.bd",
+                "vat_code": "BD"
+            },
+            {
+                "code": "NI",
+                "label": "field.country.ni",
+                "vat_code": "NI"
+            },
+            {
+                "code": "BB",
+                "label": "field.country.bb",
+                "vat_code": "BB"
+            },
+            {
+                "code": "NO",
+                "label": "field.country.no",
+                "vat_code": "NO"
+            },
+            {
+                "code": "BW",
+                "label": "field.country.bw",
+                "vat_code": "BW"
+            },
+            {
+                "code": "MO",
+                "label": "field.country.mo",
+                "vat_code": "MO"
+            },
+            {
+                "code": "DO",
+                "label": "field.country.do",
+                "vat_code": "DO"
+            },
+            {
+                "code": "DK",
+                "label": "field.country.dk",
+                "vat_code": "DK"
+            },
+            {
+                "code": "UG",
+                "label": "field.country.ug",
+                "vat_code": "UG"
+            },
+            {
+                "code": "MX",
+                "label": "field.country.mx",
+                "vat_code": "MX"
+            },
+            {
+                "code": "SR",
+                "label": "field.country.sr",
+                "vat_code": "SR"
+            },
+            {
+                "code": "FM",
+                "label": "field.country.fm",
+                "vat_code": "FM"
+            },
+            {
+                "code": "SH",
+                "label": "field.country.sh",
+                "vat_code": "SH"
+            },
+            {
+                "code": "GL",
+                "label": "field.country.gl",
+                "vat_code": "GL"
+            },
+            {
+                "code": "AG",
+                "label": "field.country.ag",
+                "vat_code": "AG"
+            }
+        ],
+        "default_locale": "en",
+        "region": "us-east-1"
+    },
+    "keys": {
+        "autocomplete_api": "AIzaSyBk5SBUDNAHLqGVy-dtSDCea_JhHRtYacc",
+        "chargebee": "test_lISA0sB2a5epa6TJI49dnjhFEe7H9kRD",
+        "google_analytics": "GTM-THKXWQPN",
+        "pendo": "7837d993-ff94-451e-7764-c661a74aa1d2"
+    },
+    "theme": {
+        "logo": "https://cb-invoice-logos-prod.s3.us-east-1.amazonaws.com/test3019-test/logo_1724746934_169kibUMdaMskQ8G.jpg",
+        "color": "#01BCD5",
+        "styles": [
+            {
+                "layout": "FULL_PAGE",
+                "values": [
+                    {
+                        "key": "COLOR_ACCENT",
+                        "value": "#ff0040"
+                    },
+                    {
+                        "key": "COLOR_HEADER",
+                        "value": "#F8F8F8"
+                    },
+                    {
+                        "key": "COLOR_HIGHLIGHT_PANEL",
+                        "value": "#FFFFFF"
+                    },
+                    {
+                        "key": "COLOR_CHECKOUT_PAGE",
+                        "value": "#F8F8F8"
+                    },
+                    {
+                        "key": "COLOR_ORDER_CARDS",
+                        "value": "#FFFFFF"
+                    },
+                    {
+                        "key": "COLOR_INPUT_COMPONENTS",
+                        "value": "#FFFFFF"
+                    },
+                    {
+                        "key": "TYPOGRAPHY_FAMILY",
+                        "value": "Sans Serif"
+                    },
+                    {
+                        "key": "TYPOGRAPHY_SIZE",
+                        "value": "DEFAULT"
+                    },
+                    {
+                        "key": "SHAPE_TYPE",
+                        "value": "ROUNDED"
+                    }
+                ]
+            }
+        ]
+    },
+    "urls": {
+        "js": "https://js1.chargebee.com/v2/chargebee.js"
+    },
+    "checkout": {
+        "onetime": {
+            "adjustments": {
+                "line_item": {
+                    "is_advanced_adjustments_enabled": false
+                },
+                "coupon": {
+                    "allow_adjustments": false,
+                    "is_multiple_coupons_allowed": false
+                }
+            },
+            "access_modes": [
+                "PAYMENT_LINK",
+                "API"
+            ],
+            "save_payment_method": "ASK_CUSTOMER"
+        },
+        "subscription": {
+            "adjustments": {
+                "line_item": {
+                    "plan": [
+                        "QUANTITY_EDIT"
+                    ],
+                    "addon": [
+                        "QUANTITY_EDIT",
+                        "REMOVE"
+                    ],
+                    "charge": [
+                        "QUANTITY_EDIT",
+                        "REMOVE"
+                    ],
+                    "is_advanced_adjustments_enabled": false
+                },
+                "coupon": {
+                    "allow_adjustments": false,
+                    "is_multiple_coupons_allowed": false
+                }
+            },
+            "enable_recommendations": false,
+            "hide_zero_line_items": false,
+            "multiple_subscriptions_allowed": true,
+            "guest_checkout_allowed": false,
+            "access_modes": [
+                "PAYMENT_LINK",
+                "API"
+            ]
+        },
+        "form": {
+            "sections": [
+                {
+                    "name": "CUSTOMER",
+                    "fields": [
+                        {
+                            "is_custom_field": false,
+                            "is_required": false,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 0,
+                            "type": "TEXT",
+                            "label": "field.customer.first_name",
+                            "validations": {
+                                "allow_blank": {
+                                    "value": true
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "first_name"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": false,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 1,
+                            "type": "TEXT",
+                            "label": "field.customer.last_name",
+                            "validations": {
+                                "allow_blank": {
+                                    "value": true
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "last_name"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 2,
+                            "type": "EMAIL",
+                            "label": "field.customer.email",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "type_validation": [
+                                    {
+                                        "type": "EMAIL",
+                                        "message": "error.column.email.main"
+                                    }
+                                ]
+                            },
+                            "name": "email"
+                        }
+                    ]
+                },
+                {
+                    "name": "BILLING_ADDRESS",
+                    "fields": [
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 0,
+                            "type": "TEXT",
+                            "label": "field.billing_address.first_name",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "first_name"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 1,
+                            "type": "TEXT",
+                            "label": "field.billing_address.last_name",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "last_name"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.billing_address.line1",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "line1"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": false,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.billing_address.line2",
+                            "validations": {
+                                "allow_blank": {
+                                    "value": true
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "line2"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.billing_address.city",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "50"
+                                }
+                            },
+                            "name": "city"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": false,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.billing_address.zip",
+                            "validations": {
+                                "allow_blank": {
+                                    "value": true
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "20"
+                                }
+                            },
+                            "name": "zip"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.billing_address.state",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "50"
+                                }
+                            },
+                            "name": "state"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 6,
+                            "type": "SELECT",
+                            "label": "field.billing_address.state_code",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "50"
+                                }
+                            },
+                            "name": "state_code"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 6,
+                            "type": "SELECT",
+                            "label": "field.billing_address.country",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "50"
+                                },
+                                "field_warn": [
+                                    {
+                                        "key": "INVALID_FIELD",
+                                        "value": false,
+                                        "message": "warn.invalid_field_value"
+                                    },
+                                    {
+                                        "key": "SANCTIONED_COUNTRY",
+                                        "value": false,
+                                        "message": "warn.sanctioned_country.error"
+                                    }
+                                ]
+                            },
+                            "name": "country",
+                            "allowed_values": [
+                                {
+                                    "label": "field.country.pg",
+                                    "value": "PG"
+                                },
+                                {
+                                    "label": "field.country.kh",
+                                    "value": "KH"
+                                },
+                                {
+                                    "label": "field.country.py",
+                                    "value": "PY"
+                                },
+                                {
+                                    "label": "field.country.kz",
+                                    "value": "KZ"
+                                },
+                                {
+                                    "label": "field.country.sb",
+                                    "value": "SB"
+                                },
+                                {
+                                    "label": "field.country.bs",
+                                    "value": "BS"
+                                },
+                                {
+                                    "label": "field.country.ms",
+                                    "value": "MS"
+                                },
+                                {
+                                    "label": "field.country.mh",
+                                    "value": "MH"
+                                },
+                                {
+                                    "label": "field.country.ml",
+                                    "value": "ML"
+                                },
+                                {
+                                    "label": "field.country.pa",
+                                    "value": "PA"
+                                },
+                                {
+                                    "label": "field.country.gp",
+                                    "value": "GP"
+                                },
+                                {
+                                    "label": "field.country.ar",
+                                    "value": "AR"
+                                },
+                                {
+                                    "label": "field.country.im",
+                                    "value": "IM"
+                                },
+                                {
+                                    "label": "field.country.ps",
+                                    "value": "PS"
+                                },
+                                {
+                                    "label": "field.country.sc",
+                                    "value": "SC"
+                                },
+                                {
+                                    "label": "field.country.zm",
+                                    "value": "ZM"
+                                },
+                                {
+                                    "label": "field.country.bz",
+                                    "value": "BZ"
+                                },
+                                {
+                                    "label": "field.country.bh",
+                                    "value": "BH"
+                                },
+                                {
+                                    "label": "field.country.cg",
+                                    "value": "CG"
+                                },
+                                {
+                                    "label": "field.country.na",
+                                    "value": "NA"
+                                },
+                                {
+                                    "label": "field.country.fi",
+                                    "value": "FI"
+                                },
+                                {
+                                    "label": "field.country.fo",
+                                    "value": "FO"
+                                },
+                                {
+                                    "label": "field.country.km",
+                                    "value": "KM"
+                                },
+                                {
+                                    "label": "field.country.an",
+                                    "value": "AN"
+                                },
+                                {
+                                    "label": "field.country.ge",
+                                    "value": "GE"
+                                },
+                                {
+                                    "label": "field.country.ye",
+                                    "value": "YE"
+                                },
+                                {
+                                    "label": "field.country.pr",
+                                    "value": "PR"
+                                },
+                                {
+                                    "label": "field.country.er",
+                                    "value": "ER"
+                                },
+                                {
+                                    "label": "field.country.vn",
+                                    "value": "VN"
+                                },
+                                {
+                                    "label": "field.country.mg",
+                                    "value": "MG"
+                                },
+                                {
+                                    "label": "field.country.aw",
+                                    "value": "AW"
+                                },
+                                {
+                                    "label": "field.country.ly",
+                                    "value": "LY"
+                                },
+                                {
+                                    "label": "field.country.se",
+                                    "value": "SE"
+                                },
+                                {
+                                    "label": "field.country.mw",
+                                    "value": "MW"
+                                },
+                                {
+                                    "label": "field.country.cc",
+                                    "value": "CC"
+                                },
+                                {
+                                    "label": "field.country.ad",
+                                    "value": "AD"
+                                },
+                                {
+                                    "label": "field.country.li",
+                                    "value": "LI"
+                                },
+                                {
+                                    "label": "field.country.pl",
+                                    "value": "PL"
+                                },
+                                {
+                                    "label": "field.country.jo",
+                                    "value": "JO"
+                                },
+                                {
+                                    "label": "field.country.bg",
+                                    "value": "BG"
+                                },
+                                {
+                                    "label": "field.country.tn",
+                                    "value": "TN"
+                                },
+                                {
+                                    "label": "field.country.ae",
+                                    "value": "AE"
+                                },
+                                {
+                                    "label": "field.country.tv",
+                                    "value": "TV"
+                                },
+                                {
+                                    "label": "field.country.ke",
+                                    "value": "KE"
+                                },
+                                {
+                                    "label": "field.country.pf",
+                                    "value": "PF"
+                                },
+                                {
+                                    "label": "field.country.lb",
+                                    "value": "LB"
+                                },
+                                {
+                                    "label": "field.country.dj",
+                                    "value": "DJ"
+                                },
+                                {
+                                    "label": "field.country.az",
+                                    "value": "AZ"
+                                },
+                                {
+                                    "label": "field.country.mf",
+                                    "value": "MF"
+                                },
+                                {
+                                    "label": "field.country.cz",
+                                    "value": "CZ"
+                                },
+                                {
+                                    "label": "field.country.lc",
+                                    "value": "LC"
+                                },
+                                {
+                                    "label": "field.country.mr",
+                                    "value": "MR"
+                                },
+                                {
+                                    "label": "field.country.gg",
+                                    "value": "GG"
+                                },
+                                {
+                                    "label": "field.country.tl",
+                                    "value": "TL"
+                                },
+                                {
+                                    "label": "field.country.yt",
+                                    "value": "YT"
+                                },
+                                {
+                                    "label": "field.country.sm",
+                                    "value": "SM"
+                                },
+                                {
+                                    "label": "field.country.il",
+                                    "value": "IL"
+                                },
+                                {
+                                    "label": "field.country.au",
+                                    "value": "AU"
+                                },
+                                {
+                                    "label": "field.country.tj",
+                                    "value": "TJ"
+                                },
+                                {
+                                    "label": "field.country.mm",
+                                    "value": "MM"
+                                },
+                                {
+                                    "label": "field.country.cm",
+                                    "value": "CM"
+                                },
+                                {
+                                    "label": "field.country.gi",
+                                    "value": "GI"
+                                },
+                                {
+                                    "label": "field.country.cy",
+                                    "value": "CY"
+                                },
+                                {
+                                    "label": "field.country.mp",
+                                    "value": "MP"
+                                },
+                                {
+                                    "label": "field.country.my",
+                                    "value": "MY"
+                                },
+                                {
+                                    "label": "field.country.om",
+                                    "value": "OM"
+                                },
+                                {
+                                    "label": "field.country.is",
+                                    "value": "IS"
+                                },
+                                {
+                                    "label": "field.country.ba",
+                                    "value": "BA"
+                                },
+                                {
+                                    "label": "field.country.am",
+                                    "value": "AM"
+                                },
+                                {
+                                    "label": "field.country.ga",
+                                    "value": "GA"
+                                },
+                                {
+                                    "label": "field.country.lu",
+                                    "value": "LU"
+                                },
+                                {
+                                    "label": "field.country.br",
+                                    "value": "BR"
+                                },
+                                {
+                                    "label": "field.country.dz",
+                                    "value": "DZ"
+                                },
+                                {
+                                    "label": "field.country.si",
+                                    "value": "SI"
+                                },
+                                {
+                                    "label": "field.country.je",
+                                    "value": "JE"
+                                },
+                                {
+                                    "label": "field.country.ec",
+                                    "value": "EC"
+                                },
+                                {
+                                    "label": "field.country.co",
+                                    "value": "CO"
+                                },
+                                {
+                                    "label": "field.country.md",
+                                    "value": "MD"
+                                },
+                                {
+                                    "label": "field.country.vu",
+                                    "value": "VU"
+                                },
+                                {
+                                    "label": "field.country.um",
+                                    "value": "UM"
+                                },
+                                {
+                                    "label": "field.country.it",
+                                    "value": "IT"
+                                },
+                                {
+                                    "label": "field.country.hn",
+                                    "value": "HN"
+                                },
+                                {
+                                    "label": "field.country.aq",
+                                    "value": "AQ"
+                                },
+                                {
+                                    "label": "field.country.nr",
+                                    "value": "NR"
+                                },
+                                {
+                                    "label": "field.country.gw",
+                                    "value": "GW"
+                                },
+                                {
+                                    "label": "field.country.ht",
+                                    "value": "HT"
+                                },
+                                {
+                                    "label": "field.country.ru",
+                                    "value": "RU"
+                                },
+                                {
+                                    "label": "field.country.bi",
+                                    "value": "BI"
+                                },
+                                {
+                                    "label": "field.country.af",
+                                    "value": "AF"
+                                },
+                                {
+                                    "label": "field.country.sg",
+                                    "value": "SG"
+                                },
+                                {
+                                    "label": "field.country.gf",
+                                    "value": "GF"
+                                },
+                                {
+                                    "label": "field.country.cx",
+                                    "value": "CX"
+                                },
+                                {
+                                    "label": "field.country.as",
+                                    "value": "AS"
+                                },
+                                {
+                                    "label": "field.country.va",
+                                    "value": "VA"
+                                },
+                                {
+                                    "label": "field.country.nl",
+                                    "value": "NL"
+                                },
+                                {
+                                    "label": "field.country.cn",
+                                    "value": "CN"
+                                },
+                                {
+                                    "label": "field.country.mq",
+                                    "value": "MQ"
+                                },
+                                {
+                                    "label": "field.country.kg",
+                                    "value": "KG"
+                                },
+                                {
+                                    "label": "field.country.wf",
+                                    "value": "WF"
+                                },
+                                {
+                                    "label": "field.country.pm",
+                                    "value": "PM"
+                                },
+                                {
+                                    "label": "field.country.re",
+                                    "value": "RE"
+                                },
+                                {
+                                    "label": "field.country.bt",
+                                    "value": "BT"
+                                },
+                                {
+                                    "label": "field.country.ro",
+                                    "value": "RO"
+                                },
+                                {
+                                    "label": "field.country.tg",
+                                    "value": "TG"
+                                },
+                                {
+                                    "label": "field.country.fk",
+                                    "value": "FK"
+                                },
+                                {
+                                    "label": "field.country.ph",
+                                    "value": "PH"
+                                },
+                                {
+                                    "label": "field.country.uz",
+                                    "value": "UZ"
+                                },
+                                {
+                                    "label": "field.country.pn",
+                                    "value": "PN"
+                                },
+                                {
+                                    "label": "field.country.vg",
+                                    "value": "VG"
+                                },
+                                {
+                                    "label": "field.country.zw",
+                                    "value": "ZW"
+                                },
+                                {
+                                    "label": "field.country.io",
+                                    "value": "IO"
+                                },
+                                {
+                                    "label": "field.country.ci",
+                                    "value": "CI"
+                                },
+                                {
+                                    "label": "field.country.me",
+                                    "value": "ME"
+                                },
+                                {
+                                    "label": "field.country.id",
+                                    "value": "ID"
+                                },
+                                {
+                                    "label": "field.country.dm",
+                                    "value": "DM"
+                                },
+                                {
+                                    "label": "field.country.bj",
+                                    "value": "BJ"
+                                },
+                                {
+                                    "label": "field.country.ea",
+                                    "value": "EA"
+                                },
+                                {
+                                    "label": "field.country.ao",
+                                    "value": "AO"
+                                },
+                                {
+                                    "label": "field.country.sd",
+                                    "value": "SD"
+                                },
+                                {
+                                    "label": "field.country.pt",
+                                    "value": "PT"
+                                },
+                                {
+                                    "label": "field.country.bn",
+                                    "value": "BN"
+                                },
+                                {
+                                    "label": "field.country.nc",
+                                    "value": "NC"
+                                },
+                                {
+                                    "label": "field.country.gd",
+                                    "value": "GD"
+                                },
+                                {
+                                    "label": "field.country.gr",
+                                    "value": "GR"
+                                },
+                                {
+                                    "label": "field.country.ky",
+                                    "value": "KY"
+                                },
+                                {
+                                    "label": "field.country.sx",
+                                    "value": "SX"
+                                },
+                                {
+                                    "label": "field.country.mn",
+                                    "value": "MN"
+                                },
+                                {
+                                    "label": "field.country.lv",
+                                    "value": "LV"
+                                },
+                                {
+                                    "label": "field.country.ma",
+                                    "value": "MA"
+                                },
+                                {
+                                    "label": "field.country.gy",
+                                    "value": "GY"
+                                },
+                                {
+                                    "label": "field.country.gt",
+                                    "value": "GT"
+                                },
+                                {
+                                    "label": "field.country.iq",
+                                    "value": "IQ"
+                                },
+                                {
+                                    "label": "field.country.cl",
+                                    "value": "CL"
+                                },
+                                {
+                                    "label": "field.country.np",
+                                    "value": "NP"
+                                },
+                                {
+                                    "label": "field.country.ua",
+                                    "value": "UA"
+                                },
+                                {
+                                    "label": "field.country.tz",
+                                    "value": "TZ"
+                                },
+                                {
+                                    "label": "field.country.gh",
+                                    "value": "GH"
+                                },
+                                {
+                                    "label": "field.country.cw",
+                                    "value": "CW"
+                                },
+                                {
+                                    "label": "field.country.vc",
+                                    "value": "VC"
+                                },
+                                {
+                                    "label": "field.country.ai",
+                                    "value": "AI"
+                                },
+                                {
+                                    "label": "field.country.in",
+                                    "value": "IN"
+                                },
+                                {
+                                    "label": "field.country.ca",
+                                    "value": "CA"
+                                },
+                                {
+                                    "label": "field.country.mv",
+                                    "value": "MV"
+                                },
+                                {
+                                    "label": "field.country.tr",
+                                    "value": "TR"
+                                },
+                                {
+                                    "label": "field.country.be",
+                                    "value": "BE"
+                                },
+                                {
+                                    "label": "field.country.kr",
+                                    "value": "KR"
+                                },
+                                {
+                                    "label": "field.country.za",
+                                    "value": "ZA"
+                                },
+                                {
+                                    "label": "field.country.bm",
+                                    "value": "BM"
+                                },
+                                {
+                                    "label": "field.country.cf",
+                                    "value": "CF"
+                                },
+                                {
+                                    "label": "field.country.ax",
+                                    "value": "AX"
+                                },
+                                {
+                                    "label": "field.country.jm",
+                                    "value": "JM"
+                                },
+                                {
+                                    "label": "field.country.tm",
+                                    "value": "TM"
+                                },
+                                {
+                                    "label": "field.country.pe",
+                                    "value": "PE"
+                                },
+                                {
+                                    "label": "field.country.de",
+                                    "value": "DE"
+                                },
+                                {
+                                    "label": "field.country.tk",
+                                    "value": "TK"
+                                },
+                                {
+                                    "label": "field.country.fj",
+                                    "value": "FJ"
+                                },
+                                {
+                                    "label": "field.country.hk",
+                                    "value": "HK"
+                                },
+                                {
+                                    "label": "field.country.us",
+                                    "value": "US"
+                                },
+                                {
+                                    "label": "field.country.gn",
+                                    "value": "GN"
+                                },
+                                {
+                                    "label": "field.country.so",
+                                    "value": "SO"
+                                },
+                                {
+                                    "label": "field.country.td",
+                                    "value": "TD"
+                                },
+                                {
+                                    "label": "field.country.th",
+                                    "value": "TH"
+                                },
+                                {
+                                    "label": "field.country.ki",
+                                    "value": "KI"
+                                },
+                                {
+                                    "label": "field.country.gq",
+                                    "value": "GQ"
+                                },
+                                {
+                                    "label": "field.country.cr",
+                                    "value": "CR"
+                                },
+                                {
+                                    "label": "field.country.ng",
+                                    "value": "NG"
+                                },
+                                {
+                                    "label": "field.country.kw",
+                                    "value": "KW"
+                                },
+                                {
+                                    "label": "field.country.hr",
+                                    "value": "HR"
+                                },
+                                {
+                                    "label": "field.country.st",
+                                    "value": "ST"
+                                },
+                                {
+                                    "label": "field.country.uy",
+                                    "value": "UY"
+                                },
+                                {
+                                    "label": "field.country.lk",
+                                    "value": "LK"
+                                },
+                                {
+                                    "label": "field.country.ck",
+                                    "value": "CK"
+                                },
+                                {
+                                    "label": "field.country.gb",
+                                    "value": "GB"
+                                },
+                                {
+                                    "label": "field.country.ch",
+                                    "value": "CH"
+                                },
+                                {
+                                    "label": "field.country.ws",
+                                    "value": "WS"
+                                },
+                                {
+                                    "label": "field.country.es",
+                                    "value": "ES"
+                                },
+                                {
+                                    "label": "field.country.ve",
+                                    "value": "VE"
+                                },
+                                {
+                                    "label": "field.country.lr",
+                                    "value": "LR"
+                                },
+                                {
+                                    "label": "field.country.bf",
+                                    "value": "BF"
+                                },
+                                {
+                                    "label": "field.country.cd",
+                                    "value": "CD"
+                                },
+                                {
+                                    "label": "field.country.sz",
+                                    "value": "SZ"
+                                },
+                                {
+                                    "label": "field.country.bl",
+                                    "value": "BL"
+                                },
+                                {
+                                    "label": "field.country.pw",
+                                    "value": "PW"
+                                },
+                                {
+                                    "label": "field.country.tc",
+                                    "value": "TC"
+                                },
+                                {
+                                    "label": "field.country.ee",
+                                    "value": "EE"
+                                },
+                                {
+                                    "label": "field.country.bq",
+                                    "value": "BQ"
+                                },
+                                {
+                                    "label": "field.country.nu",
+                                    "value": "NU"
+                                },
+                                {
+                                    "label": "field.country.sj",
+                                    "value": "SJ"
+                                },
+                                {
+                                    "label": "field.country.ic",
+                                    "value": "IC"
+                                },
+                                {
+                                    "label": "field.country.at",
+                                    "value": "AT"
+                                },
+                                {
+                                    "label": "field.country.mz",
+                                    "value": "MZ"
+                                },
+                                {
+                                    "label": "field.country.sv",
+                                    "value": "SV"
+                                },
+                                {
+                                    "label": "field.country.mc",
+                                    "value": "MC"
+                                },
+                                {
+                                    "label": "field.country.gu",
+                                    "value": "GU"
+                                },
+                                {
+                                    "label": "field.country.ls",
+                                    "value": "LS"
+                                },
+                                {
+                                    "label": "field.country.to",
+                                    "value": "TO"
+                                },
+                                {
+                                    "label": "field.country.eh",
+                                    "value": "EH"
+                                },
+                                {
+                                    "label": "field.country.hm",
+                                    "value": "HM"
+                                },
+                                {
+                                    "label": "field.country.ss",
+                                    "value": "SS"
+                                },
+                                {
+                                    "label": "field.country.hu",
+                                    "value": "HU"
+                                },
+                                {
+                                    "label": "field.country.jp",
+                                    "value": "JP"
+                                },
+                                {
+                                    "label": "field.country.xi",
+                                    "value": "XI"
+                                },
+                                {
+                                    "label": "field.country.by",
+                                    "value": "BY"
+                                },
+                                {
+                                    "label": "field.country.mu",
+                                    "value": "MU"
+                                },
+                                {
+                                    "label": "field.country.bv",
+                                    "value": "BV"
+                                },
+                                {
+                                    "label": "field.country.tt",
+                                    "value": "TT"
+                                },
+                                {
+                                    "label": "field.country.nf",
+                                    "value": "NF"
+                                },
+                                {
+                                    "label": "field.country.al",
+                                    "value": "AL"
+                                },
+                                {
+                                    "label": "field.country.nz",
+                                    "value": "NZ"
+                                },
+                                {
+                                    "label": "field.country.sn",
+                                    "value": "SN"
+                                },
+                                {
+                                    "label": "field.country.mk",
+                                    "value": "MK"
+                                },
+                                {
+                                    "label": "field.country.et",
+                                    "value": "ET"
+                                },
+                                {
+                                    "label": "field.country.eg",
+                                    "value": "EG"
+                                },
+                                {
+                                    "label": "field.country.sl",
+                                    "value": "SL"
+                                },
+                                {
+                                    "label": "field.country.bo",
+                                    "value": "BO"
+                                },
+                                {
+                                    "label": "field.country.mt",
+                                    "value": "MT"
+                                },
+                                {
+                                    "label": "field.country.sa",
+                                    "value": "SA"
+                                },
+                                {
+                                    "label": "field.country.cv",
+                                    "value": "CV"
+                                },
+                                {
+                                    "label": "field.country.gs",
+                                    "value": "GS"
+                                },
+                                {
+                                    "label": "field.country.pk",
+                                    "value": "PK"
+                                },
+                                {
+                                    "label": "field.country.xk",
+                                    "value": "XK"
+                                },
+                                {
+                                    "label": "field.country.gm",
+                                    "value": "GM"
+                                },
+                                {
+                                    "label": "field.country.qa",
+                                    "value": "QA"
+                                },
+                                {
+                                    "label": "field.country.ie",
+                                    "value": "IE"
+                                },
+                                {
+                                    "label": "field.country.vi",
+                                    "value": "VI"
+                                },
+                                {
+                                    "label": "field.country.sk",
+                                    "value": "SK"
+                                },
+                                {
+                                    "label": "field.country.tw",
+                                    "value": "TW"
+                                },
+                                {
+                                    "label": "field.country.rs",
+                                    "value": "RS"
+                                },
+                                {
+                                    "label": "field.country.lt",
+                                    "value": "LT"
+                                },
+                                {
+                                    "label": "field.country.fr",
+                                    "value": "FR"
+                                },
+                                {
+                                    "label": "field.country.la",
+                                    "value": "LA"
+                                },
+                                {
+                                    "label": "field.country.ne",
+                                    "value": "NE"
+                                },
+                                {
+                                    "label": "field.country.rw",
+                                    "value": "RW"
+                                },
+                                {
+                                    "label": "field.country.kn",
+                                    "value": "KN"
+                                },
+                                {
+                                    "label": "field.country.tf",
+                                    "value": "TF"
+                                },
+                                {
+                                    "label": "field.country.bd",
+                                    "value": "BD"
+                                },
+                                {
+                                    "label": "field.country.ni",
+                                    "value": "NI"
+                                },
+                                {
+                                    "label": "field.country.bb",
+                                    "value": "BB"
+                                },
+                                {
+                                    "label": "field.country.no",
+                                    "value": "NO"
+                                },
+                                {
+                                    "label": "field.country.bw",
+                                    "value": "BW"
+                                },
+                                {
+                                    "label": "field.country.mo",
+                                    "value": "MO"
+                                },
+                                {
+                                    "label": "field.country.do",
+                                    "value": "DO"
+                                },
+                                {
+                                    "label": "field.country.dk",
+                                    "value": "DK"
+                                },
+                                {
+                                    "label": "field.country.ug",
+                                    "value": "UG"
+                                },
+                                {
+                                    "label": "field.country.mx",
+                                    "value": "MX"
+                                },
+                                {
+                                    "label": "field.country.sr",
+                                    "value": "SR"
+                                },
+                                {
+                                    "label": "field.country.fm",
+                                    "value": "FM"
+                                },
+                                {
+                                    "label": "field.country.sh",
+                                    "value": "SH"
+                                },
+                                {
+                                    "label": "field.country.gl",
+                                    "value": "GL"
+                                },
+                                {
+                                    "label": "field.country.ag",
+                                    "value": "AG"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SHIPPING_ADDRESS",
+                    "fields": [
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 0,
+                            "type": "TEXT",
+                            "label": "field.shipping_address.first_name",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "first_name"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 1,
+                            "type": "TEXT",
+                            "label": "field.shipping_address.last_name",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "last_name"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.shipping_address.line1",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "line1"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": false,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.shipping_address.line2",
+                            "validations": {
+                                "allow_blank": {
+                                    "value": true
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "150"
+                                }
+                            },
+                            "name": "line2"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.shipping_address.city",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "50"
+                                }
+                            },
+                            "name": "city"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": false,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.shipping_address.zip",
+                            "validations": {
+                                "allow_blank": {
+                                    "value": true
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "20"
+                                }
+                            },
+                            "name": "zip"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 6,
+                            "type": "TEXT",
+                            "label": "field.shipping_address.state",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "50"
+                                }
+                            },
+                            "name": "state"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 6,
+                            "type": "SELECT",
+                            "label": "field.shipping_address.state_code",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "50"
+                                }
+                            },
+                            "name": "state_code"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 6,
+                            "type": "SELECT",
+                            "label": "field.shipping_address.country",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "50"
+                                },
+                                "field_warn": [
+                                    {
+                                        "key": "INVALID_FIELD",
+                                        "value": false,
+                                        "message": "warn.invalid_field_value"
+                                    },
+                                    {
+                                        "key": "SANCTIONED_COUNTRY",
+                                        "value": false,
+                                        "message": "warn.sanctioned_country.error"
+                                    }
+                                ]
+                            },
+                            "name": "country",
+                            "allowed_values": [
+                                {
+                                    "label": "field.country.pg",
+                                    "value": "PG"
+                                },
+                                {
+                                    "label": "field.country.kh",
+                                    "value": "KH"
+                                },
+                                {
+                                    "label": "field.country.py",
+                                    "value": "PY"
+                                },
+                                {
+                                    "label": "field.country.kz",
+                                    "value": "KZ"
+                                },
+                                {
+                                    "label": "field.country.sb",
+                                    "value": "SB"
+                                },
+                                {
+                                    "label": "field.country.bs",
+                                    "value": "BS"
+                                },
+                                {
+                                    "label": "field.country.ms",
+                                    "value": "MS"
+                                },
+                                {
+                                    "label": "field.country.mh",
+                                    "value": "MH"
+                                },
+                                {
+                                    "label": "field.country.ml",
+                                    "value": "ML"
+                                },
+                                {
+                                    "label": "field.country.pa",
+                                    "value": "PA"
+                                },
+                                {
+                                    "label": "field.country.gp",
+                                    "value": "GP"
+                                },
+                                {
+                                    "label": "field.country.ar",
+                                    "value": "AR"
+                                },
+                                {
+                                    "label": "field.country.im",
+                                    "value": "IM"
+                                },
+                                {
+                                    "label": "field.country.ps",
+                                    "value": "PS"
+                                },
+                                {
+                                    "label": "field.country.sc",
+                                    "value": "SC"
+                                },
+                                {
+                                    "label": "field.country.zm",
+                                    "value": "ZM"
+                                },
+                                {
+                                    "label": "field.country.bz",
+                                    "value": "BZ"
+                                },
+                                {
+                                    "label": "field.country.bh",
+                                    "value": "BH"
+                                },
+                                {
+                                    "label": "field.country.cg",
+                                    "value": "CG"
+                                },
+                                {
+                                    "label": "field.country.na",
+                                    "value": "NA"
+                                },
+                                {
+                                    "label": "field.country.fi",
+                                    "value": "FI"
+                                },
+                                {
+                                    "label": "field.country.fo",
+                                    "value": "FO"
+                                },
+                                {
+                                    "label": "field.country.km",
+                                    "value": "KM"
+                                },
+                                {
+                                    "label": "field.country.an",
+                                    "value": "AN"
+                                },
+                                {
+                                    "label": "field.country.ge",
+                                    "value": "GE"
+                                },
+                                {
+                                    "label": "field.country.ye",
+                                    "value": "YE"
+                                },
+                                {
+                                    "label": "field.country.pr",
+                                    "value": "PR"
+                                },
+                                {
+                                    "label": "field.country.er",
+                                    "value": "ER"
+                                },
+                                {
+                                    "label": "field.country.vn",
+                                    "value": "VN"
+                                },
+                                {
+                                    "label": "field.country.mg",
+                                    "value": "MG"
+                                },
+                                {
+                                    "label": "field.country.aw",
+                                    "value": "AW"
+                                },
+                                {
+                                    "label": "field.country.ly",
+                                    "value": "LY"
+                                },
+                                {
+                                    "label": "field.country.se",
+                                    "value": "SE"
+                                },
+                                {
+                                    "label": "field.country.mw",
+                                    "value": "MW"
+                                },
+                                {
+                                    "label": "field.country.cc",
+                                    "value": "CC"
+                                },
+                                {
+                                    "label": "field.country.ad",
+                                    "value": "AD"
+                                },
+                                {
+                                    "label": "field.country.li",
+                                    "value": "LI"
+                                },
+                                {
+                                    "label": "field.country.pl",
+                                    "value": "PL"
+                                },
+                                {
+                                    "label": "field.country.jo",
+                                    "value": "JO"
+                                },
+                                {
+                                    "label": "field.country.bg",
+                                    "value": "BG"
+                                },
+                                {
+                                    "label": "field.country.tn",
+                                    "value": "TN"
+                                },
+                                {
+                                    "label": "field.country.ae",
+                                    "value": "AE"
+                                },
+                                {
+                                    "label": "field.country.tv",
+                                    "value": "TV"
+                                },
+                                {
+                                    "label": "field.country.ke",
+                                    "value": "KE"
+                                },
+                                {
+                                    "label": "field.country.pf",
+                                    "value": "PF"
+                                },
+                                {
+                                    "label": "field.country.lb",
+                                    "value": "LB"
+                                },
+                                {
+                                    "label": "field.country.dj",
+                                    "value": "DJ"
+                                },
+                                {
+                                    "label": "field.country.az",
+                                    "value": "AZ"
+                                },
+                                {
+                                    "label": "field.country.mf",
+                                    "value": "MF"
+                                },
+                                {
+                                    "label": "field.country.cz",
+                                    "value": "CZ"
+                                },
+                                {
+                                    "label": "field.country.lc",
+                                    "value": "LC"
+                                },
+                                {
+                                    "label": "field.country.mr",
+                                    "value": "MR"
+                                },
+                                {
+                                    "label": "field.country.gg",
+                                    "value": "GG"
+                                },
+                                {
+                                    "label": "field.country.tl",
+                                    "value": "TL"
+                                },
+                                {
+                                    "label": "field.country.yt",
+                                    "value": "YT"
+                                },
+                                {
+                                    "label": "field.country.sm",
+                                    "value": "SM"
+                                },
+                                {
+                                    "label": "field.country.il",
+                                    "value": "IL"
+                                },
+                                {
+                                    "label": "field.country.au",
+                                    "value": "AU"
+                                },
+                                {
+                                    "label": "field.country.tj",
+                                    "value": "TJ"
+                                },
+                                {
+                                    "label": "field.country.mm",
+                                    "value": "MM"
+                                },
+                                {
+                                    "label": "field.country.cm",
+                                    "value": "CM"
+                                },
+                                {
+                                    "label": "field.country.gi",
+                                    "value": "GI"
+                                },
+                                {
+                                    "label": "field.country.cy",
+                                    "value": "CY"
+                                },
+                                {
+                                    "label": "field.country.mp",
+                                    "value": "MP"
+                                },
+                                {
+                                    "label": "field.country.my",
+                                    "value": "MY"
+                                },
+                                {
+                                    "label": "field.country.om",
+                                    "value": "OM"
+                                },
+                                {
+                                    "label": "field.country.is",
+                                    "value": "IS"
+                                },
+                                {
+                                    "label": "field.country.ba",
+                                    "value": "BA"
+                                },
+                                {
+                                    "label": "field.country.am",
+                                    "value": "AM"
+                                },
+                                {
+                                    "label": "field.country.ga",
+                                    "value": "GA"
+                                },
+                                {
+                                    "label": "field.country.lu",
+                                    "value": "LU"
+                                },
+                                {
+                                    "label": "field.country.br",
+                                    "value": "BR"
+                                },
+                                {
+                                    "label": "field.country.dz",
+                                    "value": "DZ"
+                                },
+                                {
+                                    "label": "field.country.si",
+                                    "value": "SI"
+                                },
+                                {
+                                    "label": "field.country.je",
+                                    "value": "JE"
+                                },
+                                {
+                                    "label": "field.country.ec",
+                                    "value": "EC"
+                                },
+                                {
+                                    "label": "field.country.co",
+                                    "value": "CO"
+                                },
+                                {
+                                    "label": "field.country.md",
+                                    "value": "MD"
+                                },
+                                {
+                                    "label": "field.country.vu",
+                                    "value": "VU"
+                                },
+                                {
+                                    "label": "field.country.um",
+                                    "value": "UM"
+                                },
+                                {
+                                    "label": "field.country.it",
+                                    "value": "IT"
+                                },
+                                {
+                                    "label": "field.country.hn",
+                                    "value": "HN"
+                                },
+                                {
+                                    "label": "field.country.aq",
+                                    "value": "AQ"
+                                },
+                                {
+                                    "label": "field.country.nr",
+                                    "value": "NR"
+                                },
+                                {
+                                    "label": "field.country.gw",
+                                    "value": "GW"
+                                },
+                                {
+                                    "label": "field.country.ht",
+                                    "value": "HT"
+                                },
+                                {
+                                    "label": "field.country.ru",
+                                    "value": "RU"
+                                },
+                                {
+                                    "label": "field.country.bi",
+                                    "value": "BI"
+                                },
+                                {
+                                    "label": "field.country.af",
+                                    "value": "AF"
+                                },
+                                {
+                                    "label": "field.country.sg",
+                                    "value": "SG"
+                                },
+                                {
+                                    "label": "field.country.gf",
+                                    "value": "GF"
+                                },
+                                {
+                                    "label": "field.country.cx",
+                                    "value": "CX"
+                                },
+                                {
+                                    "label": "field.country.as",
+                                    "value": "AS"
+                                },
+                                {
+                                    "label": "field.country.va",
+                                    "value": "VA"
+                                },
+                                {
+                                    "label": "field.country.nl",
+                                    "value": "NL"
+                                },
+                                {
+                                    "label": "field.country.cn",
+                                    "value": "CN"
+                                },
+                                {
+                                    "label": "field.country.mq",
+                                    "value": "MQ"
+                                },
+                                {
+                                    "label": "field.country.kg",
+                                    "value": "KG"
+                                },
+                                {
+                                    "label": "field.country.wf",
+                                    "value": "WF"
+                                },
+                                {
+                                    "label": "field.country.pm",
+                                    "value": "PM"
+                                },
+                                {
+                                    "label": "field.country.re",
+                                    "value": "RE"
+                                },
+                                {
+                                    "label": "field.country.bt",
+                                    "value": "BT"
+                                },
+                                {
+                                    "label": "field.country.ro",
+                                    "value": "RO"
+                                },
+                                {
+                                    "label": "field.country.tg",
+                                    "value": "TG"
+                                },
+                                {
+                                    "label": "field.country.fk",
+                                    "value": "FK"
+                                },
+                                {
+                                    "label": "field.country.ph",
+                                    "value": "PH"
+                                },
+                                {
+                                    "label": "field.country.uz",
+                                    "value": "UZ"
+                                },
+                                {
+                                    "label": "field.country.pn",
+                                    "value": "PN"
+                                },
+                                {
+                                    "label": "field.country.vg",
+                                    "value": "VG"
+                                },
+                                {
+                                    "label": "field.country.zw",
+                                    "value": "ZW"
+                                },
+                                {
+                                    "label": "field.country.io",
+                                    "value": "IO"
+                                },
+                                {
+                                    "label": "field.country.ci",
+                                    "value": "CI"
+                                },
+                                {
+                                    "label": "field.country.me",
+                                    "value": "ME"
+                                },
+                                {
+                                    "label": "field.country.id",
+                                    "value": "ID"
+                                },
+                                {
+                                    "label": "field.country.dm",
+                                    "value": "DM"
+                                },
+                                {
+                                    "label": "field.country.bj",
+                                    "value": "BJ"
+                                },
+                                {
+                                    "label": "field.country.ea",
+                                    "value": "EA"
+                                },
+                                {
+                                    "label": "field.country.ao",
+                                    "value": "AO"
+                                },
+                                {
+                                    "label": "field.country.sd",
+                                    "value": "SD"
+                                },
+                                {
+                                    "label": "field.country.pt",
+                                    "value": "PT"
+                                },
+                                {
+                                    "label": "field.country.bn",
+                                    "value": "BN"
+                                },
+                                {
+                                    "label": "field.country.nc",
+                                    "value": "NC"
+                                },
+                                {
+                                    "label": "field.country.gd",
+                                    "value": "GD"
+                                },
+                                {
+                                    "label": "field.country.gr",
+                                    "value": "GR"
+                                },
+                                {
+                                    "label": "field.country.ky",
+                                    "value": "KY"
+                                },
+                                {
+                                    "label": "field.country.sx",
+                                    "value": "SX"
+                                },
+                                {
+                                    "label": "field.country.mn",
+                                    "value": "MN"
+                                },
+                                {
+                                    "label": "field.country.lv",
+                                    "value": "LV"
+                                },
+                                {
+                                    "label": "field.country.ma",
+                                    "value": "MA"
+                                },
+                                {
+                                    "label": "field.country.gy",
+                                    "value": "GY"
+                                },
+                                {
+                                    "label": "field.country.gt",
+                                    "value": "GT"
+                                },
+                                {
+                                    "label": "field.country.iq",
+                                    "value": "IQ"
+                                },
+                                {
+                                    "label": "field.country.cl",
+                                    "value": "CL"
+                                },
+                                {
+                                    "label": "field.country.np",
+                                    "value": "NP"
+                                },
+                                {
+                                    "label": "field.country.ua",
+                                    "value": "UA"
+                                },
+                                {
+                                    "label": "field.country.tz",
+                                    "value": "TZ"
+                                },
+                                {
+                                    "label": "field.country.gh",
+                                    "value": "GH"
+                                },
+                                {
+                                    "label": "field.country.cw",
+                                    "value": "CW"
+                                },
+                                {
+                                    "label": "field.country.vc",
+                                    "value": "VC"
+                                },
+                                {
+                                    "label": "field.country.ai",
+                                    "value": "AI"
+                                },
+                                {
+                                    "label": "field.country.in",
+                                    "value": "IN"
+                                },
+                                {
+                                    "label": "field.country.ca",
+                                    "value": "CA"
+                                },
+                                {
+                                    "label": "field.country.mv",
+                                    "value": "MV"
+                                },
+                                {
+                                    "label": "field.country.tr",
+                                    "value": "TR"
+                                },
+                                {
+                                    "label": "field.country.be",
+                                    "value": "BE"
+                                },
+                                {
+                                    "label": "field.country.kr",
+                                    "value": "KR"
+                                },
+                                {
+                                    "label": "field.country.za",
+                                    "value": "ZA"
+                                },
+                                {
+                                    "label": "field.country.bm",
+                                    "value": "BM"
+                                },
+                                {
+                                    "label": "field.country.cf",
+                                    "value": "CF"
+                                },
+                                {
+                                    "label": "field.country.ax",
+                                    "value": "AX"
+                                },
+                                {
+                                    "label": "field.country.jm",
+                                    "value": "JM"
+                                },
+                                {
+                                    "label": "field.country.tm",
+                                    "value": "TM"
+                                },
+                                {
+                                    "label": "field.country.pe",
+                                    "value": "PE"
+                                },
+                                {
+                                    "label": "field.country.de",
+                                    "value": "DE"
+                                },
+                                {
+                                    "label": "field.country.tk",
+                                    "value": "TK"
+                                },
+                                {
+                                    "label": "field.country.fj",
+                                    "value": "FJ"
+                                },
+                                {
+                                    "label": "field.country.hk",
+                                    "value": "HK"
+                                },
+                                {
+                                    "label": "field.country.us",
+                                    "value": "US"
+                                },
+                                {
+                                    "label": "field.country.gn",
+                                    "value": "GN"
+                                },
+                                {
+                                    "label": "field.country.so",
+                                    "value": "SO"
+                                },
+                                {
+                                    "label": "field.country.td",
+                                    "value": "TD"
+                                },
+                                {
+                                    "label": "field.country.th",
+                                    "value": "TH"
+                                },
+                                {
+                                    "label": "field.country.ki",
+                                    "value": "KI"
+                                },
+                                {
+                                    "label": "field.country.gq",
+                                    "value": "GQ"
+                                },
+                                {
+                                    "label": "field.country.cr",
+                                    "value": "CR"
+                                },
+                                {
+                                    "label": "field.country.ng",
+                                    "value": "NG"
+                                },
+                                {
+                                    "label": "field.country.kw",
+                                    "value": "KW"
+                                },
+                                {
+                                    "label": "field.country.hr",
+                                    "value": "HR"
+                                },
+                                {
+                                    "label": "field.country.st",
+                                    "value": "ST"
+                                },
+                                {
+                                    "label": "field.country.uy",
+                                    "value": "UY"
+                                },
+                                {
+                                    "label": "field.country.lk",
+                                    "value": "LK"
+                                },
+                                {
+                                    "label": "field.country.ck",
+                                    "value": "CK"
+                                },
+                                {
+                                    "label": "field.country.gb",
+                                    "value": "GB"
+                                },
+                                {
+                                    "label": "field.country.ch",
+                                    "value": "CH"
+                                },
+                                {
+                                    "label": "field.country.ws",
+                                    "value": "WS"
+                                },
+                                {
+                                    "label": "field.country.es",
+                                    "value": "ES"
+                                },
+                                {
+                                    "label": "field.country.ve",
+                                    "value": "VE"
+                                },
+                                {
+                                    "label": "field.country.lr",
+                                    "value": "LR"
+                                },
+                                {
+                                    "label": "field.country.bf",
+                                    "value": "BF"
+                                },
+                                {
+                                    "label": "field.country.cd",
+                                    "value": "CD"
+                                },
+                                {
+                                    "label": "field.country.sz",
+                                    "value": "SZ"
+                                },
+                                {
+                                    "label": "field.country.bl",
+                                    "value": "BL"
+                                },
+                                {
+                                    "label": "field.country.pw",
+                                    "value": "PW"
+                                },
+                                {
+                                    "label": "field.country.tc",
+                                    "value": "TC"
+                                },
+                                {
+                                    "label": "field.country.ee",
+                                    "value": "EE"
+                                },
+                                {
+                                    "label": "field.country.bq",
+                                    "value": "BQ"
+                                },
+                                {
+                                    "label": "field.country.nu",
+                                    "value": "NU"
+                                },
+                                {
+                                    "label": "field.country.sj",
+                                    "value": "SJ"
+                                },
+                                {
+                                    "label": "field.country.ic",
+                                    "value": "IC"
+                                },
+                                {
+                                    "label": "field.country.at",
+                                    "value": "AT"
+                                },
+                                {
+                                    "label": "field.country.mz",
+                                    "value": "MZ"
+                                },
+                                {
+                                    "label": "field.country.sv",
+                                    "value": "SV"
+                                },
+                                {
+                                    "label": "field.country.mc",
+                                    "value": "MC"
+                                },
+                                {
+                                    "label": "field.country.gu",
+                                    "value": "GU"
+                                },
+                                {
+                                    "label": "field.country.ls",
+                                    "value": "LS"
+                                },
+                                {
+                                    "label": "field.country.to",
+                                    "value": "TO"
+                                },
+                                {
+                                    "label": "field.country.eh",
+                                    "value": "EH"
+                                },
+                                {
+                                    "label": "field.country.hm",
+                                    "value": "HM"
+                                },
+                                {
+                                    "label": "field.country.ss",
+                                    "value": "SS"
+                                },
+                                {
+                                    "label": "field.country.hu",
+                                    "value": "HU"
+                                },
+                                {
+                                    "label": "field.country.jp",
+                                    "value": "JP"
+                                },
+                                {
+                                    "label": "field.country.xi",
+                                    "value": "XI"
+                                },
+                                {
+                                    "label": "field.country.by",
+                                    "value": "BY"
+                                },
+                                {
+                                    "label": "field.country.mu",
+                                    "value": "MU"
+                                },
+                                {
+                                    "label": "field.country.bv",
+                                    "value": "BV"
+                                },
+                                {
+                                    "label": "field.country.tt",
+                                    "value": "TT"
+                                },
+                                {
+                                    "label": "field.country.nf",
+                                    "value": "NF"
+                                },
+                                {
+                                    "label": "field.country.al",
+                                    "value": "AL"
+                                },
+                                {
+                                    "label": "field.country.nz",
+                                    "value": "NZ"
+                                },
+                                {
+                                    "label": "field.country.sn",
+                                    "value": "SN"
+                                },
+                                {
+                                    "label": "field.country.mk",
+                                    "value": "MK"
+                                },
+                                {
+                                    "label": "field.country.et",
+                                    "value": "ET"
+                                },
+                                {
+                                    "label": "field.country.eg",
+                                    "value": "EG"
+                                },
+                                {
+                                    "label": "field.country.sl",
+                                    "value": "SL"
+                                },
+                                {
+                                    "label": "field.country.bo",
+                                    "value": "BO"
+                                },
+                                {
+                                    "label": "field.country.mt",
+                                    "value": "MT"
+                                },
+                                {
+                                    "label": "field.country.sa",
+                                    "value": "SA"
+                                },
+                                {
+                                    "label": "field.country.cv",
+                                    "value": "CV"
+                                },
+                                {
+                                    "label": "field.country.gs",
+                                    "value": "GS"
+                                },
+                                {
+                                    "label": "field.country.pk",
+                                    "value": "PK"
+                                },
+                                {
+                                    "label": "field.country.xk",
+                                    "value": "XK"
+                                },
+                                {
+                                    "label": "field.country.gm",
+                                    "value": "GM"
+                                },
+                                {
+                                    "label": "field.country.qa",
+                                    "value": "QA"
+                                },
+                                {
+                                    "label": "field.country.ie",
+                                    "value": "IE"
+                                },
+                                {
+                                    "label": "field.country.vi",
+                                    "value": "VI"
+                                },
+                                {
+                                    "label": "field.country.sk",
+                                    "value": "SK"
+                                },
+                                {
+                                    "label": "field.country.tw",
+                                    "value": "TW"
+                                },
+                                {
+                                    "label": "field.country.rs",
+                                    "value": "RS"
+                                },
+                                {
+                                    "label": "field.country.lt",
+                                    "value": "LT"
+                                },
+                                {
+                                    "label": "field.country.fr",
+                                    "value": "FR"
+                                },
+                                {
+                                    "label": "field.country.la",
+                                    "value": "LA"
+                                },
+                                {
+                                    "label": "field.country.ne",
+                                    "value": "NE"
+                                },
+                                {
+                                    "label": "field.country.rw",
+                                    "value": "RW"
+                                },
+                                {
+                                    "label": "field.country.kn",
+                                    "value": "KN"
+                                },
+                                {
+                                    "label": "field.country.tf",
+                                    "value": "TF"
+                                },
+                                {
+                                    "label": "field.country.bd",
+                                    "value": "BD"
+                                },
+                                {
+                                    "label": "field.country.ni",
+                                    "value": "NI"
+                                },
+                                {
+                                    "label": "field.country.bb",
+                                    "value": "BB"
+                                },
+                                {
+                                    "label": "field.country.no",
+                                    "value": "NO"
+                                },
+                                {
+                                    "label": "field.country.bw",
+                                    "value": "BW"
+                                },
+                                {
+                                    "label": "field.country.mo",
+                                    "value": "MO"
+                                },
+                                {
+                                    "label": "field.country.do",
+                                    "value": "DO"
+                                },
+                                {
+                                    "label": "field.country.dk",
+                                    "value": "DK"
+                                },
+                                {
+                                    "label": "field.country.ug",
+                                    "value": "UG"
+                                },
+                                {
+                                    "label": "field.country.mx",
+                                    "value": "MX"
+                                },
+                                {
+                                    "label": "field.country.sr",
+                                    "value": "SR"
+                                },
+                                {
+                                    "label": "field.country.fm",
+                                    "value": "FM"
+                                },
+                                {
+                                    "label": "field.country.sh",
+                                    "value": "SH"
+                                },
+                                {
+                                    "label": "field.country.gl",
+                                    "value": "GL"
+                                },
+                                {
+                                    "label": "field.country.ag",
+                                    "value": "AG"
+                                }
+                            ]
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": false,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 0,
+                            "type": "CHECKBOX",
+                            "label": "field.shipping_address.shipping.ship.to.billing",
+                            "validations": {
+                                "allow_blank": {
+                                    "value": true
+                                }
+                            },
+                            "name": "shipping.ship.to.billing"
+                        }
+                    ]
+                },
+                {
+                    "name": "CARD",
+                    "fields": [
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 2,
+                            "type": "CARD",
+                            "label": "field.card.number",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "23"
+                                }
+                            },
+                            "name": "number"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 4,
+                            "type": "TEXT",
+                            "label": "field.card.expiry_month",
+                            "validations": {},
+                            "name": "expiry_month"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": false,
+                            "order": 4,
+                            "type": "TEXT",
+                            "label": "field.card.expiry_year",
+                            "validations": {},
+                            "name": "expiry_year"
+                        },
+                        {
+                            "is_custom_field": false,
+                            "is_required": true,
+                            "is_read_only": false,
+                            "is_short": true,
+                            "order": 4,
+                            "type": "NUMBER",
+                            "label": "field.card.cvv",
+                            "validations": {
+                                "presence": {
+                                    "message": "error.field.required"
+                                },
+                                "length": {
+                                    "message": "error.column.string.length.max",
+                                    "maximum": "4"
+                                }
+                            },
+                            "name": "cvv"
+                        }
+                    ]
+                }
+            ]
+        },
+        "settings": {
+            "hide_cart_page": false,
+            "show_description": false,
+            "hide_chargebee_branding": false,
+            "keep_coupon_box_open": false,
+            "enable_payment_components": false
+        },
+        "customer": {
+            "login_mode": "CHARGEBEE",
+            "chargebee_login_modes": [
+                "OTP"
+            ]
+        },
+        "payment": {
+            "maximum_allowed_payment_methods": -1,
+            "allow_remove_primary_payment_method": false
+        },
+        "tax": {},
+        "multi_decimal": {
+            "enabled": false,
+            "truncate_trailing_zeroes": false,
+            "disable_multi_decimal_support_for_quantity": false
+        },
+        "einvoice": {
+            "einvoice_enabled": false,
+            "collect_public_identifiers_checkout": false
+        }
+    }
+}
