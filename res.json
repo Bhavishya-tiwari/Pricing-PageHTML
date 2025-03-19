@@ -1,5 +1,11 @@
 {
-    "id": "01JP4YBG6F369VD1FNM2XX64ZD",
+    "id": "01JASNM10XKSWXYK9S75E6N3SY",
+    "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+    "createdAt": "2024-10-22T08:31:13.949362Z",
+    "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+    "lastModifiedAt": "2025-03-18T06:25:25.515772Z",
+    "version": 13,
+    "active": true,
     "heading": "Pricing Page for all your needs 🎉",
     "subHeading": "Update your pricing pages __without engineering__ team working on it! 🔥",
     "paywallConfig": {
@@ -13,15 +19,15 @@
     },
     "theme": {
         "brand": {
-            "color": "#FF523B",
+            "color": "#504A66",
             "opacity": 1
         },
         "background": {
-            "color": "#F2F2F2",
+            "color": "#BECEEE",
             "opacity": 1
         },
         "accent": {
-            "color": "#012A38",
+            "color": "#1D8EB9",
             "opacity": 1
         },
         "textContrast": {
@@ -29,25 +35,374 @@
             "opacity": 1
         },
         "textBase": {
-            "color": "#012A38",
+            "color": "#131618",
             "opacity": 1
         }
     },
     "frequencyOrientation": "col",
-    "font": null,
+    "font": "rubik",
     "borderRadius": "6px",
     "pricingTable": {
-        "name": "My Pricing page (copy) (copy)",
+        "id": "01JASNM10XPQ8KP4ZE7HWR3NQ6",
+        "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+        "createdAt": "2024-10-22T08:31:13.949431Z",
+        "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+        "lastModifiedAt": "2025-03-18T06:25:25.515811Z",
+        "version": 13,
+        "active": true,
+        "name": "y",
         "description": "A curated list of items from your billing system",
         "groupedBy": "item",
         "frequencies": [
-            
+            {
+                "id": "01JASNM10X55F99TB9GDS1MAQS",
+                "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "createdAt": "2024-10-22T08:31:13.949824Z",
+                "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "lastModifiedAt": "2024-10-22T08:31:13.949824Z",
+                "version": 1,
+                "active": true,
+                "key": "1::month",
+                "title": "Monthly",
+                "period": 1,
+                "periodUnit": "month",
+                "displayText": "Monthly",
+                "isAttached": true,
+                "displayOrder": 0,
+                "priceSuffix": "per month",
+                "showMonthlyPrice": false
+            },
+            {
+                "id": "01JASNM10X5988XZ6XK0BE43XF",
+                "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "createdAt": "2024-10-22T08:31:13.949846Z",
+                "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "lastModifiedAt": "2024-10-22T08:31:13.949846Z",
+                "version": 1,
+                "active": true,
+                "key": "1::year",
+                "title": "Yearly",
+                "period": 1,
+                "periodUnit": "year",
+                "displayText": "Yearly",
+                "isAttached": true,
+                "displayOrder": 0,
+                "priceSuffix": "per year",
+                "showMonthlyPrice": false
+            },
+            {
+                "id": "01JASNM10XRV1A9TJFH79BDT1T",
+                "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "createdAt": "2024-10-22T08:31:13.949801Z",
+                "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "lastModifiedAt": "2024-10-22T08:31:13.949801Z",
+                "version": 1,
+                "active": true,
+                "key": "3::month",
+                "title": "Every 3 months",
+                "period": 3,
+                "periodUnit": "month",
+                "displayText": "Every 3 months",
+                "isAttached": true,
+                "displayOrder": 0,
+                "priceSuffix": "per 3 month",
+                "showMonthlyPrice": false
+            }
         ],
         "currencies": [
-           
+            {
+                "id": "01JASNM10XWM9MRPAG7TQK7655",
+                "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "createdAt": "2024-10-22T08:31:13.949662Z",
+                "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "lastModifiedAt": "2024-10-22T08:31:13.949662Z",
+                "version": 1,
+                "active": true,
+                "currencyCode": "INR",
+                "isAttached": true,
+                "displayText": null,
+                "displayOrder": 0
+            },
+            {
+                "id": "01JNPH7SH93EQ4QV1TA3YCGCQJ",
+                "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "createdAt": "2025-03-06T20:09:35.529498Z",
+                "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "lastModifiedAt": "2025-03-06T20:09:35.529498Z",
+                "version": 1,
+                "active": true,
+                "currencyCode": "USD",
+                "isAttached": false,
+                "displayText": null,
+                "displayOrder": 2
+            }
         ],
         "items": [
-            
+            {
+                "id": "01JASNM10XA9R9AVYP07KX0GB0",
+                "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "createdAt": "2024-10-22T08:31:13.949865Z",
+                "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "lastModifiedAt": "2025-03-18T06:25:25.51584Z",
+                "version": 2,
+                "active": true,
+                "name": "Youtube-Buisness Plan",
+                "displayName": null,
+                "description": "Youtube-Buisness plan",
+                "isMetered": false,
+                "displayOrder": 1,
+                "period": null,
+                "periodUnit": null,
+                "billingSystem": "chargebee",
+                "billingSystemId": "Youtube-Buisness-plan",
+                "billingSystemVersion": "1726471919194",
+                "features": "# What's included\n\n- Feature 1\n\n- Feature 2\n\n- Feature 3",
+                "actionButton": {
+                    "type": "chargebee_checkout",
+                    "url": null,
+                    "text": "Choose Plan"
+                },
+                "badge": {
+                    "type": "none",
+                    "text": "Most Popular"
+                },
+                "isAttached": false,
+                "highlight": false,
+                "isCustomAmountText": false,
+                "customAmountText": null,
+                "customAmountSubText": null,
+                "quantityMeta": null,
+                "productFamily": "Youtube-App",
+                "infoText": null,
+                "prices": [
+                    {
+                        "id": "01JASNM10X5C88YHV41E38JTY4",
+                        "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                        "createdAt": "2024-10-22T08:31:13.949942Z",
+                        "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                        "lastModifiedAt": "2024-10-22T08:31:13.949942Z",
+                        "version": 1,
+                        "active": true,
+                        "name": "Youtube-Buisness plan INR Monthly",
+                        "type": "recurring",
+                        "period": 1,
+                        "periodUnit": "month",
+                        "amount": 4000.0,
+                        "strikethroughAmount": null,
+                        "billingSystemAmount": 4000.0,
+                        "currency": "INR",
+                        "billingSystem": "chargebee",
+                        "billingSystemId": "Youtube-Buisness-plan-INR-Monthly",
+                        "billingSystemItemId": "Youtube-Buisness-plan",
+                        "billingSystemVersion": "1726471932267",
+                        "isAttached": true,
+                        "priceVariantId": null,
+                        "pricingModel": "flat_fee",
+                        "tiers": null,
+                        "billingSystemTiers": null,
+                        "quantityMeta": null
+                    },
+                    {
+                        "id": "01JASNM10XG1NGCGXQ6KEF1C3E",
+                        "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                        "createdAt": "2024-10-22T08:31:13.949964Z",
+                        "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                        "lastModifiedAt": "2024-10-22T08:31:13.949964Z",
+                        "version": 1,
+                        "active": true,
+                        "name": "Youtube-Buisness plan INR Yearly",
+                        "type": "recurring",
+                        "period": 1,
+                        "periodUnit": "year",
+                        "amount": 10000.0,
+                        "strikethroughAmount": null,
+                        "billingSystemAmount": 10000.0,
+                        "currency": "INR",
+                        "billingSystem": "chargebee",
+                        "billingSystemId": "Youtube-Buisness-plan-INR-Yearly",
+                        "billingSystemItemId": "Youtube-Buisness-plan",
+                        "billingSystemVersion": "1726471942243",
+                        "isAttached": true,
+                        "priceVariantId": null,
+                        "pricingModel": "flat_fee",
+                        "tiers": null,
+                        "billingSystemTiers": null,
+                        "quantityMeta": null
+                    }
+                ]
+            },
+            {
+                "id": "01JASNM10XEY970D8B3NBZ5VZY",
+                "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "createdAt": "2024-10-22T08:31:13.949989Z",
+                "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                "lastModifiedAt": "2025-03-18T06:25:25.515862Z",
+                "version": 2,
+                "active": true,
+                "name": "Youtube-Premium",
+                "displayName": null,
+                "description": "Youtube-Premium plan",
+                "isMetered": false,
+                "displayOrder": 2,
+                "period": null,
+                "periodUnit": null,
+                "billingSystem": "chargebee",
+                "billingSystemId": "Youtube-Premium",
+                "billingSystemVersion": "1726471586156",
+                "features": "# What's included\n\n- Feature 1\n\n- Feature 2\n\n- Feature 3",
+                "actionButton": {
+                    "type": "chargebee_checkout",
+                    "url": null,
+                    "text": "Choose Plan"
+                },
+                "badge": {
+                    "type": "none",
+                    "text": "Most Popular"
+                },
+                "isAttached": false,
+                "highlight": false,
+                "isCustomAmountText": false,
+                "customAmountText": null,
+                "customAmountSubText": null,
+                "quantityMeta": null,
+                "productFamily": "Youtube-App",
+                "infoText": null,
+                "prices": [
+                    {
+                        "id": "01JASNM10Y1N0ATA1V451A9Z4R",
+                        "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                        "createdAt": "2024-10-22T08:31:13.950053Z",
+                        "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                        "lastModifiedAt": "2024-10-22T08:31:13.950053Z",
+                        "version": 1,
+                        "active": true,
+                        "name": "Youtube-Premium INR Yearly",
+                        "type": "recurring",
+                        "period": 1,
+                        "periodUnit": "year",
+                        "amount": 1400.0,
+                        "strikethroughAmount": null,
+                        "billingSystemAmount": 1400.0,
+                        "currency": "INR",
+                        "billingSystem": "chargebee",
+                        "billingSystemId": "Youtube-Premium-INR-Yearly",
+                        "billingSystemItemId": "Youtube-Premium",
+                        "billingSystemVersion": "1726471622916",
+                        "isAttached": true,
+                        "priceVariantId": null,
+                        "pricingModel": "flat_fee",
+                        "tiers": null,
+                        "billingSystemTiers": null,
+                        "quantityMeta": null
+                    },
+                    {
+                        "id": "01JASNM10YGVSMENT04E97FS6T",
+                        "createdBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                        "createdAt": "2024-10-22T08:31:13.950039Z",
+                        "lastModifiedBy": "01J7G4JDPV6THPWWVW2XH9NDTT",
+                        "lastModifiedAt": "2024-10-22T08:31:13.950039Z",
+                        "version": 1,
+                        "active": true,
+                        "name": "Youtube-Premium INR Monthly",
+                        "type": "recurring",
+                        "period": 1,
+                        "periodUnit": "month",
+                        "amount": 129.0,
+                        "strikethroughAmount": null,
+                        "billingSystemAmount": 129.0,
+                        "currency": "INR",
+                        "billingSystem": "chargebee",
+                        "billingSystemId": "Youtube-Premium-INR-Monthly",
+                        "billingSystemItemId": "Youtube-Premium",
+                        "billingSystemVersion": "1726471610798",
+                        "isAttached": true,
+                        "priceVariantId": null,
+                        "pricingModel": "flat_fee",
+                        "tiers": null,
+                        "billingSystemTiers": null,
+                        "quantityMeta": null
+                    }
+                ]
+            },
+            {
+                "id":"pl1",
+                "attachable_to":"all",
+                "list_addons":[
+                    {
+                        "addonID":"ad1",
+                        "type":"M"
+                    }  
+                ]
+            },
+            {
+                "id":"pl2",
+                "attachable_to":"restrcited",
+                "list_addons":[
+                  {
+                    "addonID":"ad1",
+                    "type":"reccommended"
+                  },
+                  {
+                    "addonID":"ad2",
+                    "type":"optional"
+                  }  
+                ]
+            },
+            {
+                "id":"pl3",
+                "attachable_to":"restrcited",
+                "list_addons":[
+                  {
+                    "addonID":"ad1",
+                    "type":"reccommended"
+                  }
+                ]
+            }
+        ],
+        "Addons":[
+            {
+                "id":"ad1",
+                "name":"y",
+                "description":"Addon1",
+                "Prices":[
+                    {
+                        "id":"Pr1-INR-Mon",
+                        "differential_price":"null",
+                        "Price_information":"info"
+                    },
+                    {
+                        "id":"Pr3",
+                        "differential_price":"null",
+                        "Price_information":"info"
+
+                    },
+                    {
+                        "id":"Pr4",
+                        "differential_price":"pl3",
+                        "Price_information":"info"
+                    }
+                ]
+            },
+            {
+                "id":"ad2",
+                "name":"y",
+                "description":"Addon1",
+                "Prices":[
+                    {
+                        "id":"Pr2",
+                        "differential_price":"null",
+                        "Price_information":"info"
+                    }
+                ]
+            }
         ]
-    }
+    },
+    "siteId": "01J7G5NCJBVSTSBEBKDAHN03PA"
 }
+
+
+
+
+
+
+
